@@ -20,20 +20,29 @@ O que será entregue ao projeto principal:
 ## Estrutura deste repositório
 
 ```text
-pastas atuais de artes/
+assets/ (imagens separadas por categoria)
 assets.json
 doc/
 taks/
 README.md
 ```
 
-As pastas existentes serão mantidas nesta primeira versão para evitar renomear ou quebrar referências. A organização poderá ser refinada em outro commit.
+As imagens estão organizadas em `assets/`, mantendo os nomes dos arquivos e as subpastas do acervo.
 
 ## Como funciona o JSON
 
-Cada item contém `id`, `name`, `category`, `path`, `extension`, `size_bytes`, `api_url` e `raw_url`.
+O catálogo está organizado por categoria. Dentro de cada categoria, o identificador da arte é a chave do dicionário. Cada entrada contém somente `name` (nome original), `path` (caminho no repositório) e `api_url` (link de leitura autenticada).
 
-Os campos `owner`, `repository` e `branch` ficam no início do JSON. Antes de publicar, `SEU_USUARIO` e `SEU_REPOSITORIO` serão substituídos pelos valores reais.
+Exemplo de consulta no projeto principal:
+
+```python
+arte = catalogo["assets"]["chibi"]["chibi-aprovado"]
+link = arte["api_url"]
+```
+
+Os identificadores existentes foram preservados. Arquivos com nomes UUID continuam com esses identificadores até receberem apelidos escolhidos após conferir a imagem. A versão 2 usa dicionários em vez da lista da versão 1.
+
+Os campos `owner`, `name` e `branch` ficam dentro de `repository`, no início do JSON. Antes de publicar, `SEU_USUARIO` e `SEU_REPOSITORIO` serão substituídos pelos valores reais também nos links.
 
 ## Atenção aos links privados
 
@@ -60,6 +69,6 @@ GITHUB_ASSETS_BRANCH=main
 GITHUB_ASSETS_TOKEN=...  # somente no ambiente, nunca no Git
 ```
 
-A integração deve localizar o item pelo `id`, usar seu `api_url`, autenticar na API do GitHub e ler o conteúdo retornado. A implementação dessa integração será feita separadamente no GM Core.
+A integração deve localizar o item pela categoria e pela chave da arte, usar seu `api_url`, autenticar na API do GitHub e ler o conteúdo retornado. A implementação dessa integração será feita separadamente no GM Core.
 
 Veja o desenho em [fluxograma.md](fluxograma.md) ou [fluxograma.svg](fluxograma.svg). As pendências estão em [../taks/README.md](../taks/README.md).

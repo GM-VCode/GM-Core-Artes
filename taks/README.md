@@ -2,7 +2,9 @@
 
 ## Preparar este repositório
 
-- [x] Manter o acervo atual sem mover arquivos.
+- [x] Centralizar o acervo em `assets/` por categoria.
+- [x] Renomear imagens com nomes do ChatGPT e atualizar o catálogo.
+- [x] Documentar a integração no README da raiz.
 - [x] Criar o planejamento em `doc/`.
 - [x] Criar o fluxograma da publicação e do consumo.
 - [x] Criar o `assets.json` estático com o inventário atual.
