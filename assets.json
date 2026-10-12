@@ -1,0 +1,2672 @@
+{
+    "version":  1,
+    "repository":  {
+                       "owner":  "SEU_USUARIO",
+                       "name":  "SEU_REPOSITORIO",
+                       "visibility":  "private",
+                       "branch":  "main"
+                   },
+    "asset_count":  266,
+    "assets":  [
+                   {
+                       "id":  "backgrounds-1-plano-de-fundo-gm-core",
+                       "name":  "1_Plano de fundo GM Core.png",
+                       "category":  "backgrounds",
+                       "path":  "assets/backgrounds/1_Plano de fundo GM Core.png",
+                       "extension":  "png",
+                       "size_bytes":  2839152,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/backgrounds/1_Plano%20de%20fundo%20GM%20Core.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/backgrounds/1_Plano%20de%20fundo%20GM%20Core.png"
+                   },
+                   {
+                       "id":  "backgrounds-2-plano-de-fundo-gm",
+                       "name":  "2_plano de fundo GM.png",
+                       "category":  "backgrounds",
+                       "path":  "assets/backgrounds/2_plano de fundo GM.png",
+                       "extension":  "png",
+                       "size_bytes":  2543243,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/backgrounds/2_plano%20de%20fundo%20GM.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/backgrounds/2_plano%20de%20fundo%20GM.png"
+                   },
+                   {
+                       "id":  "banners-029c25ad-9bf2-43be-b8d0-56aceb7b8062",
+                       "name":  "029c25ad-9bf2-43be-b8d0-56aceb7b8062.png",
+                       "category":  "banners",
+                       "path":  "assets/banners/029c25ad-9bf2-43be-b8d0-56aceb7b8062.png",
+                       "extension":  "png",
+                       "size_bytes":  2507974,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/banners/029c25ad-9bf2-43be-b8d0-56aceb7b8062.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/banners/029c25ad-9bf2-43be-b8d0-56aceb7b8062.png"
+                   },
+                   {
+                       "id":  "banners-0914d23b-8857-45bc-bed0-53cc4f7996b8-1",
+                       "name":  "0914d23b-8857-45bc-bed0-53cc4f7996b8 (1).png",
+                       "category":  "banners",
+                       "path":  "assets/banners/0914d23b-8857-45bc-bed0-53cc4f7996b8 (1).png",
+                       "extension":  "png",
+                       "size_bytes":  2471002,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/banners/0914d23b-8857-45bc-bed0-53cc4f7996b8%20(1).png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/banners/0914d23b-8857-45bc-bed0-53cc4f7996b8%20(1).png"
+                   },
+                   {
+                       "id":  "banners-0914d23b-8857-45bc-bed0-53cc4f7996b8",
+                       "name":  "0914d23b-8857-45bc-bed0-53cc4f7996b8.png",
+                       "category":  "banners",
+                       "path":  "assets/banners/0914d23b-8857-45bc-bed0-53cc4f7996b8.png",
+                       "extension":  "png",
+                       "size_bytes":  2471002,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/banners/0914d23b-8857-45bc-bed0-53cc4f7996b8.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/banners/0914d23b-8857-45bc-bed0-53cc4f7996b8.png"
+                   },
+                   {
+                       "id":  "banners-100f1033-2869-4fe9-9fce-889683cd5aef",
+                       "name":  "100f1033-2869-4fe9-9fce-889683cd5aef.png",
+                       "category":  "banners",
+                       "path":  "assets/banners/100f1033-2869-4fe9-9fce-889683cd5aef.png",
+                       "extension":  "png",
+                       "size_bytes":  2149518,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/banners/100f1033-2869-4fe9-9fce-889683cd5aef.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/banners/100f1033-2869-4fe9-9fce-889683cd5aef.png"
+                   },
+                   {
+                       "id":  "banners-16f86fb0-4a8a-40f7-8ebe-ed474cb1d41d",
+                       "name":  "16f86fb0-4a8a-40f7-8ebe-ed474cb1d41d.png",
+                       "category":  "banners",
+                       "path":  "assets/banners/16f86fb0-4a8a-40f7-8ebe-ed474cb1d41d.png",
+                       "extension":  "png",
+                       "size_bytes":  2850312,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/banners/16f86fb0-4a8a-40f7-8ebe-ed474cb1d41d.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/banners/16f86fb0-4a8a-40f7-8ebe-ed474cb1d41d.png"
+                   },
+                   {
+                       "id":  "banners-198e9529-d395-48d8-9b16-6842d3089ee0",
+                       "name":  "198e9529-d395-48d8-9b16-6842d3089ee0.png",
+                       "category":  "banners",
+                       "path":  "assets/banners/198e9529-d395-48d8-9b16-6842d3089ee0.png",
+                       "extension":  "png",
+                       "size_bytes":  2798107,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/banners/198e9529-d395-48d8-9b16-6842d3089ee0.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/banners/198e9529-d395-48d8-9b16-6842d3089ee0.png"
+                   },
+                   {
+                       "id":  "banners-1d2189c1-6898-4100-bd80-025f97f71d0f",
+                       "name":  "1d2189c1-6898-4100-bd80-025f97f71d0f.png",
+                       "category":  "banners",
+                       "path":  "assets/banners/1d2189c1-6898-4100-bd80-025f97f71d0f.png",
+                       "extension":  "png",
+                       "size_bytes":  2639568,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/banners/1d2189c1-6898-4100-bd80-025f97f71d0f.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/banners/1d2189c1-6898-4100-bd80-025f97f71d0f.png"
+                   },
+                   {
+                       "id":  "banners-272b2a41-7169-4e3e-a42d-9a08525d7086",
+                       "name":  "272b2a41-7169-4e3e-a42d-9a08525d7086.png",
+                       "category":  "banners",
+                       "path":  "assets/banners/272b2a41-7169-4e3e-a42d-9a08525d7086.png",
+                       "extension":  "png",
+                       "size_bytes":  2595986,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/banners/272b2a41-7169-4e3e-a42d-9a08525d7086.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/banners/272b2a41-7169-4e3e-a42d-9a08525d7086.png"
+                   },
+                   {
+                       "id":  "banners-4845fc2e-4785-4d8f-a656-82bcf5405f5e",
+                       "name":  "4845fc2e-4785-4d8f-a656-82bcf5405f5e.png",
+                       "category":  "banners",
+                       "path":  "assets/banners/4845fc2e-4785-4d8f-a656-82bcf5405f5e.png",
+                       "extension":  "png",
+                       "size_bytes":  2784389,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/banners/4845fc2e-4785-4d8f-a656-82bcf5405f5e.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/banners/4845fc2e-4785-4d8f-a656-82bcf5405f5e.png"
+                   },
+                   {
+                       "id":  "banners-5599c932-7d40-4d82-93cb-3a9c2affb222",
+                       "name":  "5599c932-7d40-4d82-93cb-3a9c2affb222.png",
+                       "category":  "banners",
+                       "path":  "assets/banners/5599c932-7d40-4d82-93cb-3a9c2affb222.png",
+                       "extension":  "png",
+                       "size_bytes":  2127276,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/banners/5599c932-7d40-4d82-93cb-3a9c2affb222.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/banners/5599c932-7d40-4d82-93cb-3a9c2affb222.png"
+                   },
+                   {
+                       "id":  "banners-67f8d5b6-5de9-47a6-b1ca-a5468b918199",
+                       "name":  "67f8d5b6-5de9-47a6-b1ca-a5468b918199.png",
+                       "category":  "banners",
+                       "path":  "assets/banners/67f8d5b6-5de9-47a6-b1ca-a5468b918199.png",
+                       "extension":  "png",
+                       "size_bytes":  2450528,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/banners/67f8d5b6-5de9-47a6-b1ca-a5468b918199.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/banners/67f8d5b6-5de9-47a6-b1ca-a5468b918199.png"
+                   },
+                   {
+                       "id":  "banners-6e9ebaf8-7d0c-412d-9c19-d9ff4a964018",
+                       "name":  "6e9ebaf8-7d0c-412d-9c19-d9ff4a964018.png",
+                       "category":  "banners",
+                       "path":  "assets/banners/6e9ebaf8-7d0c-412d-9c19-d9ff4a964018.png",
+                       "extension":  "png",
+                       "size_bytes":  2646691,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/banners/6e9ebaf8-7d0c-412d-9c19-d9ff4a964018.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/banners/6e9ebaf8-7d0c-412d-9c19-d9ff4a964018.png"
+                   },
+                   {
+                       "id":  "banners-70c1fb86-c4a6-4caf-b7b8-f6124fecc8c6",
+                       "name":  "70c1fb86-c4a6-4caf-b7b8-f6124fecc8c6.png",
+                       "category":  "banners",
+                       "path":  "assets/banners/70c1fb86-c4a6-4caf-b7b8-f6124fecc8c6.png",
+                       "extension":  "png",
+                       "size_bytes":  2525647,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/banners/70c1fb86-c4a6-4caf-b7b8-f6124fecc8c6.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/banners/70c1fb86-c4a6-4caf-b7b8-f6124fecc8c6.png"
+                   },
+                   {
+                       "id":  "banners-7fb06bdc-3f3a-4dfa-aa3e-a0381d04895b",
+                       "name":  "7fb06bdc-3f3a-4dfa-aa3e-a0381d04895b.png",
+                       "category":  "banners",
+                       "path":  "assets/banners/7fb06bdc-3f3a-4dfa-aa3e-a0381d04895b.png",
+                       "extension":  "png",
+                       "size_bytes":  2906084,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/banners/7fb06bdc-3f3a-4dfa-aa3e-a0381d04895b.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/banners/7fb06bdc-3f3a-4dfa-aa3e-a0381d04895b.png"
+                   },
+                   {
+                       "id":  "banners-8c88ffa5-38d8-4db8-b2a5-c47ce2d42ca4",
+                       "name":  "8c88ffa5-38d8-4db8-b2a5-c47ce2d42ca4.png",
+                       "category":  "banners",
+                       "path":  "assets/banners/8c88ffa5-38d8-4db8-b2a5-c47ce2d42ca4.png",
+                       "extension":  "png",
+                       "size_bytes":  2383942,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/banners/8c88ffa5-38d8-4db8-b2a5-c47ce2d42ca4.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/banners/8c88ffa5-38d8-4db8-b2a5-c47ce2d42ca4.png"
+                   },
+                   {
+                       "id":  "banners-93c0ac93-51aa-454c-a189-f13e18358978",
+                       "name":  "93c0ac93-51aa-454c-a189-f13e18358978.png",
+                       "category":  "banners",
+                       "path":  "assets/banners/93c0ac93-51aa-454c-a189-f13e18358978.png",
+                       "extension":  "png",
+                       "size_bytes":  2713819,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/banners/93c0ac93-51aa-454c-a189-f13e18358978.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/banners/93c0ac93-51aa-454c-a189-f13e18358978.png"
+                   },
+                   {
+                       "id":  "banners-9867ebb8-c7b3-46ba-854c-97e36df2154a",
+                       "name":  "9867ebb8-c7b3-46ba-854c-97e36df2154a.png",
+                       "category":  "banners",
+                       "path":  "assets/banners/9867ebb8-c7b3-46ba-854c-97e36df2154a.png",
+                       "extension":  "png",
+                       "size_bytes":  2379939,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/banners/9867ebb8-c7b3-46ba-854c-97e36df2154a.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/banners/9867ebb8-c7b3-46ba-854c-97e36df2154a.png"
+                   },
+                   {
+                       "id":  "banners-999a9227-dfff-4f18-bc74-9ebf447afae4",
+                       "name":  "999a9227-dfff-4f18-bc74-9ebf447afae4.png",
+                       "category":  "banners",
+                       "path":  "assets/banners/999a9227-dfff-4f18-bc74-9ebf447afae4.png",
+                       "extension":  "png",
+                       "size_bytes":  2850312,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/banners/999a9227-dfff-4f18-bc74-9ebf447afae4.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/banners/999a9227-dfff-4f18-bc74-9ebf447afae4.png"
+                   },
+                   {
+                       "id":  "banners-ac31bd1c-b71f-493c-8ebc-56e3a045075d",
+                       "name":  "ac31bd1c-b71f-493c-8ebc-56e3a045075d.png",
+                       "category":  "banners",
+                       "path":  "assets/banners/ac31bd1c-b71f-493c-8ebc-56e3a045075d.png",
+                       "extension":  "png",
+                       "size_bytes":  2906084,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/banners/ac31bd1c-b71f-493c-8ebc-56e3a045075d.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/banners/ac31bd1c-b71f-493c-8ebc-56e3a045075d.png"
+                   },
+                   {
+                       "id":  "banners-b1d4c534-66d3-41d6-ae50-4f8af0992e31",
+                       "name":  "b1d4c534-66d3-41d6-ae50-4f8af0992e31.png",
+                       "category":  "banners",
+                       "path":  "assets/banners/b1d4c534-66d3-41d6-ae50-4f8af0992e31.png",
+                       "extension":  "png",
+                       "size_bytes":  2423821,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/banners/b1d4c534-66d3-41d6-ae50-4f8af0992e31.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/banners/b1d4c534-66d3-41d6-ae50-4f8af0992e31.png"
+                   },
+                   {
+                       "id":  "banners-banner-cyberpunk-neon-com-menu-atualizado",
+                       "name":  "Banner Cyberpunk Neon com Menu Atualizado.png",
+                       "category":  "banners",
+                       "path":  "assets/banners/Banner Cyberpunk Neon com Menu Atualizado.png",
+                       "extension":  "png",
+                       "size_bytes":  2127276,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/banners/Banner%20Cyberpunk%20Neon%20com%20Menu%20Atualizado.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/banners/Banner%20Cyberpunk%20Neon%20com%20Menu%20Atualizado.png"
+                   },
+                   {
+                       "id":  "banners-cd74bccc-4a99-464d-8e56-110fd64c5a91",
+                       "name":  "cd74bccc-4a99-464d-8e56-110fd64c5a91.png",
+                       "category":  "banners",
+                       "path":  "assets/banners/cd74bccc-4a99-464d-8e56-110fd64c5a91.png",
+                       "extension":  "png",
+                       "size_bytes":  2677023,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/banners/cd74bccc-4a99-464d-8e56-110fd64c5a91.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/banners/cd74bccc-4a99-464d-8e56-110fd64c5a91.png"
+                   },
+                   {
+                       "id":  "banners-d085a29f-9dca-42aa-9aaf-8c7a58af3c0a",
+                       "name":  "d085a29f-9dca-42aa-9aaf-8c7a58af3c0a.png",
+                       "category":  "banners",
+                       "path":  "assets/banners/d085a29f-9dca-42aa-9aaf-8c7a58af3c0a.png",
+                       "extension":  "png",
+                       "size_bytes":  2635814,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/banners/d085a29f-9dca-42aa-9aaf-8c7a58af3c0a.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/banners/d085a29f-9dca-42aa-9aaf-8c7a58af3c0a.png"
+                   },
+                   {
+                       "id":  "banners-dqweqweqw",
+                       "name":  "dqweqweqw.png",
+                       "category":  "banners",
+                       "path":  "assets/banners/dqweqweqw.png",
+                       "extension":  "png",
+                       "size_bytes":  2635814,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/banners/dqweqweqw.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/banners/dqweqweqw.png"
+                   },
+                   {
+                       "id":  "banners-f7a934bf-e16a-4d96-8157-2e233ac62b5c",
+                       "name":  "f7a934bf-e16a-4d96-8157-2e233ac62b5c.png",
+                       "category":  "banners",
+                       "path":  "assets/banners/f7a934bf-e16a-4d96-8157-2e233ac62b5c.png",
+                       "extension":  "png",
+                       "size_bytes":  2370310,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/banners/f7a934bf-e16a-4d96-8157-2e233ac62b5c.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/banners/f7a934bf-e16a-4d96-8157-2e233ac62b5c.png"
+                   },
+                   {
+                       "id":  "banners-fd56411c-1f89-4fd1-a9ad-4b5e16e61f70",
+                       "name":  "fd56411c-1f89-4fd1-a9ad-4b5e16e61f70.png",
+                       "category":  "banners",
+                       "path":  "assets/banners/fd56411c-1f89-4fd1-a9ad-4b5e16e61f70.png",
+                       "extension":  "png",
+                       "size_bytes":  2529700,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/banners/fd56411c-1f89-4fd1-a9ad-4b5e16e61f70.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/banners/fd56411c-1f89-4fd1-a9ad-4b5e16e61f70.png"
+                   },
+                   {
+                       "id":  "banners-wewewe",
+                       "name":  "wewewe.png",
+                       "category":  "banners",
+                       "path":  "assets/banners/wewewe.png",
+                       "extension":  "png",
+                       "size_bytes":  2713819,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/banners/wewewe.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/banners/wewewe.png"
+                   },
+                   {
+                       "id":  "banners-wewqeqw",
+                       "name":  "wewqeqw.png",
+                       "category":  "banners",
+                       "path":  "assets/banners/wewqeqw.png",
+                       "extension":  "png",
+                       "size_bytes":  2677023,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/banners/wewqeqw.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/banners/wewqeqw.png"
+                   },
+                   {
+                       "id":  "chibi-1-alegria",
+                       "name":  "1_alegria.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/01_Iniciais_e_variacoes/Individuais_origem_a_conferir/1_alegria.png",
+                       "extension":  "png",
+                       "size_bytes":  1816969,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/01_Iniciais_e_variacoes/Individuais_origem_a_conferir/1_alegria.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/01_Iniciais_e_variacoes/Individuais_origem_a_conferir/1_alegria.png"
+                   },
+                   {
+                       "id":  "chibi-1-bravo",
+                       "name":  "1_bravo.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/01_Iniciais_e_variacoes/Individuais_origem_a_conferir/1_bravo.png",
+                       "extension":  "png",
+                       "size_bytes":  1716175,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/01_Iniciais_e_variacoes/Individuais_origem_a_conferir/1_bravo.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/01_Iniciais_e_variacoes/Individuais_origem_a_conferir/1_bravo.png"
+                   },
+                   {
+                       "id":  "chibi-1-coracao",
+                       "name":  "1_coracao.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/01_Iniciais_e_variacoes/Individuais_origem_a_conferir/1_coracao.png",
+                       "extension":  "png",
+                       "size_bytes":  1453454,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/01_Iniciais_e_variacoes/Individuais_origem_a_conferir/1_coracao.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/01_Iniciais_e_variacoes/Individuais_origem_a_conferir/1_coracao.png"
+                   },
+                   {
+                       "id":  "chibi-1-gamer",
+                       "name":  "1_gamer.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/01_Iniciais_e_variacoes/Individuais_origem_a_conferir/1_gamer.png",
+                       "extension":  "png",
+                       "size_bytes":  1508049,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/01_Iniciais_e_variacoes/Individuais_origem_a_conferir/1_gamer.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/01_Iniciais_e_variacoes/Individuais_origem_a_conferir/1_gamer.png"
+                   },
+                   {
+                       "id":  "chibi-1-joinha",
+                       "name":  "1_joinha.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/01_Iniciais_e_variacoes/Individuais_origem_a_conferir/1_joinha.png",
+                       "extension":  "png",
+                       "size_bytes":  1518745,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/01_Iniciais_e_variacoes/Individuais_origem_a_conferir/1_joinha.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/01_Iniciais_e_variacoes/Individuais_origem_a_conferir/1_joinha.png"
+                   },
+                   {
+                       "id":  "chibi-2-alegria",
+                       "name":  "2_alegria.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/01_Iniciais_e_variacoes/Individuais_origem_a_conferir/2_alegria.png",
+                       "extension":  "png",
+                       "size_bytes":  1686697,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/01_Iniciais_e_variacoes/Individuais_origem_a_conferir/2_alegria.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/01_Iniciais_e_variacoes/Individuais_origem_a_conferir/2_alegria.png"
+                   },
+                   {
+                       "id":  "chibi-2-coracao",
+                       "name":  "2_coracao.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/01_Iniciais_e_variacoes/Individuais_origem_a_conferir/2_coracao.png",
+                       "extension":  "png",
+                       "size_bytes":  1632181,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/01_Iniciais_e_variacoes/Individuais_origem_a_conferir/2_coracao.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/01_Iniciais_e_variacoes/Individuais_origem_a_conferir/2_coracao.png"
+                   },
+                   {
+                       "id":  "chibi-3-oi",
+                       "name":  "3_oi.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/01_Iniciais_e_variacoes/Individuais_origem_a_conferir/3_oi.png",
+                       "extension":  "png",
+                       "size_bytes":  1521190,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/01_Iniciais_e_variacoes/Individuais_origem_a_conferir/3_oi.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/01_Iniciais_e_variacoes/Individuais_origem_a_conferir/3_oi.png"
+                   },
+                   {
+                       "id":  "chibi-4-gamer",
+                       "name":  "4_gamer.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/01_Iniciais_e_variacoes/Individuais_origem_a_conferir/4_gamer.png",
+                       "extension":  "png",
+                       "size_bytes":  1890063,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/01_Iniciais_e_variacoes/Individuais_origem_a_conferir/4_gamer.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/01_Iniciais_e_variacoes/Individuais_origem_a_conferir/4_gamer.png"
+                   },
+                   {
+                       "id":  "chibi-4-oi",
+                       "name":  "4_oi.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/01_Iniciais_e_variacoes/Individuais_origem_a_conferir/4_oi.png",
+                       "extension":  "png",
+                       "size_bytes":  1573716,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/01_Iniciais_e_variacoes/Individuais_origem_a_conferir/4_oi.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/01_Iniciais_e_variacoes/Individuais_origem_a_conferir/4_oi.png"
+                   },
+                   {
+                       "id":  "chibi-anuncio",
+                       "name":  "anuncio.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/01_Iniciais_e_variacoes/Individuais_origem_a_conferir/anuncio.png",
+                       "extension":  "png",
+                       "size_bytes":  1675077,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/01_Iniciais_e_variacoes/Individuais_origem_a_conferir/anuncio.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/01_Iniciais_e_variacoes/Individuais_origem_a_conferir/anuncio.png"
+                   },
+                   {
+                       "id":  "chibi-cafe",
+                       "name":  "cafe.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/01_Iniciais_e_variacoes/Individuais_origem_a_conferir/cafe.png",
+                       "extension":  "png",
+                       "size_bytes":  1499173,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/01_Iniciais_e_variacoes/Individuais_origem_a_conferir/cafe.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/01_Iniciais_e_variacoes/Individuais_origem_a_conferir/cafe.png"
+                   },
+                   {
+                       "id":  "chibi-celular",
+                       "name":  "celular.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/01_Iniciais_e_variacoes/Individuais_origem_a_conferir/celular.png",
+                       "extension":  "png",
+                       "size_bytes":  1781904,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/01_Iniciais_e_variacoes/Individuais_origem_a_conferir/celular.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/01_Iniciais_e_variacoes/Individuais_origem_a_conferir/celular.png"
+                   },
+                   {
+                       "id":  "chibi-feliz",
+                       "name":  "feliz.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/01_Iniciais_e_variacoes/Individuais_origem_a_conferir/feliz.png",
+                       "extension":  "png",
+                       "size_bytes":  1472151,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/01_Iniciais_e_variacoes/Individuais_origem_a_conferir/feliz.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/01_Iniciais_e_variacoes/Individuais_origem_a_conferir/feliz.png"
+                   },
+                   {
+                       "id":  "chibi-livro",
+                       "name":  "livro.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/01_Iniciais_e_variacoes/Individuais_origem_a_conferir/livro.png",
+                       "extension":  "png",
+                       "size_bytes":  1481139,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/01_Iniciais_e_variacoes/Individuais_origem_a_conferir/livro.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/01_Iniciais_e_variacoes/Individuais_origem_a_conferir/livro.png"
+                   },
+                   {
+                       "id":  "chibi-piscando",
+                       "name":  "piscando.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/01_Iniciais_e_variacoes/Individuais_origem_a_conferir/piscando.png",
+                       "extension":  "png",
+                       "size_bytes":  1644733,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/01_Iniciais_e_variacoes/Individuais_origem_a_conferir/piscando.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/01_Iniciais_e_variacoes/Individuais_origem_a_conferir/piscando.png"
+                   },
+                   {
+                       "id":  "chibi-voce",
+                       "name":  "voce.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/01_Iniciais_e_variacoes/Individuais_origem_a_conferir/voce.png",
+                       "extension":  "png",
+                       "size_bytes":  1454763,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/01_Iniciais_e_variacoes/Individuais_origem_a_conferir/voce.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/01_Iniciais_e_variacoes/Individuais_origem_a_conferir/voce.png"
+                   },
+                   {
+                       "id":  "chibi-1-rindo",
+                       "name":  "1_rindo.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/01_Iniciais_e_variacoes/Lote_06h50/1_rindo.png",
+                       "extension":  "png",
+                       "size_bytes":  1876511,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/01_Iniciais_e_variacoes/Lote_06h50/1_rindo.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/01_Iniciais_e_variacoes/Lote_06h50/1_rindo.png"
+                   },
+                   {
+                       "id":  "chibi-1-susto",
+                       "name":  "1_susto.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/01_Iniciais_e_variacoes/Lote_06h50/1_susto.png",
+                       "extension":  "png",
+                       "size_bytes":  1755913,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/01_Iniciais_e_variacoes/Lote_06h50/1_susto.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/01_Iniciais_e_variacoes/Lote_06h50/1_susto.png"
+                   },
+                   {
+                       "id":  "chibi-chorando",
+                       "name":  "chorando.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/01_Iniciais_e_variacoes/Lote_06h50/chorando.png",
+                       "extension":  "png",
+                       "size_bytes":  1961597,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/01_Iniciais_e_variacoes/Lote_06h50/chorando.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/01_Iniciais_e_variacoes/Lote_06h50/chorando.png"
+                   },
+                   {
+                       "id":  "chibi-1-sono",
+                       "name":  "1_sono.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/01_Iniciais_e_variacoes/Lote_06h55/1_sono.png",
+                       "extension":  "png",
+                       "size_bytes":  1677163,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/01_Iniciais_e_variacoes/Lote_06h55/1_sono.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/01_Iniciais_e_variacoes/Lote_06h55/1_sono.png"
+                   },
+                   {
+                       "id":  "chibi-2-bravo",
+                       "name":  "2_bravo.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/01_Iniciais_e_variacoes/Lote_06h55/2_bravo.png",
+                       "extension":  "png",
+                       "size_bytes":  1630434,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/01_Iniciais_e_variacoes/Lote_06h55/2_bravo.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/01_Iniciais_e_variacoes/Lote_06h55/2_bravo.png"
+                   },
+                   {
+                       "id":  "chibi-2-susto",
+                       "name":  "2_susto.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/01_Iniciais_e_variacoes/Lote_06h55/2_susto.png",
+                       "extension":  "png",
+                       "size_bytes":  1952612,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/01_Iniciais_e_variacoes/Lote_06h55/2_susto.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/01_Iniciais_e_variacoes/Lote_06h55/2_susto.png"
+                   },
+                   {
+                       "id":  "chibi-3-alegria",
+                       "name":  "3_alegria.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/01_Iniciais_e_variacoes/Lote_06h55/3_alegria.png",
+                       "extension":  "png",
+                       "size_bytes":  1854258,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/01_Iniciais_e_variacoes/Lote_06h55/3_alegria.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/01_Iniciais_e_variacoes/Lote_06h55/3_alegria.png"
+                   },
+                   {
+                       "id":  "chibi-3-coracao",
+                       "name":  "3_coracao.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/01_Iniciais_e_variacoes/Lote_06h55/3_coracao.png",
+                       "extension":  "png",
+                       "size_bytes":  1738048,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/01_Iniciais_e_variacoes/Lote_06h55/3_coracao.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/01_Iniciais_e_variacoes/Lote_06h55/3_coracao.png"
+                   },
+                   {
+                       "id":  "chibi-1-ban",
+                       "name":  "1_ban.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/01_Iniciais_e_variacoes/Lote_07h02/1_ban.png",
+                       "extension":  "png",
+                       "size_bytes":  2507649,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/01_Iniciais_e_variacoes/Lote_07h02/1_ban.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/01_Iniciais_e_variacoes/Lote_07h02/1_ban.png"
+                   },
+                   {
+                       "id":  "chibi-1-duvida",
+                       "name":  "1_duvida.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/01_Iniciais_e_variacoes/Lote_07h02/1_duvida.png",
+                       "extension":  "png",
+                       "size_bytes":  1779074,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/01_Iniciais_e_variacoes/Lote_07h02/1_duvida.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/01_Iniciais_e_variacoes/Lote_07h02/1_duvida.png"
+                   },
+                   {
+                       "id":  "chibi-1-escudo",
+                       "name":  "1_escudo.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/01_Iniciais_e_variacoes/Lote_07h02/1_escudo.png",
+                       "extension":  "png",
+                       "size_bytes":  2415652,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/01_Iniciais_e_variacoes/Lote_07h02/1_escudo.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/01_Iniciais_e_variacoes/Lote_07h02/1_escudo.png"
+                   },
+                   {
+                       "id":  "chibi-2-rindo",
+                       "name":  "2_rindo.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/01_Iniciais_e_variacoes/Lote_07h02/2_rindo.png",
+                       "extension":  "png",
+                       "size_bytes":  2252579,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/01_Iniciais_e_variacoes/Lote_07h02/2_rindo.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/01_Iniciais_e_variacoes/Lote_07h02/2_rindo.png"
+                   },
+                   {
+                       "id":  "chibi-furioso",
+                       "name":  "furioso.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/01_Iniciais_e_variacoes/Lote_07h02/furioso.png",
+                       "extension":  "png",
+                       "size_bytes":  2482258,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/01_Iniciais_e_variacoes/Lote_07h02/furioso.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/01_Iniciais_e_variacoes/Lote_07h02/furioso.png"
+                   },
+                   {
+                       "id":  "chibi-permissoes",
+                       "name":  "permissoes.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/01_Iniciais_e_variacoes/Lote_07h02/permissoes.png",
+                       "extension":  "png",
+                       "size_bytes":  2262653,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/01_Iniciais_e_variacoes/Lote_07h02/permissoes.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/01_Iniciais_e_variacoes/Lote_07h02/permissoes.png"
+                   },
+                   {
+                       "id":  "chibi-travesso",
+                       "name":  "travesso.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/01_Iniciais_e_variacoes/Lote_07h02/travesso.png",
+                       "extension":  "png",
+                       "size_bytes":  1894693,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/01_Iniciais_e_variacoes/Lote_07h02/travesso.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/01_Iniciais_e_variacoes/Lote_07h02/travesso.png"
+                   },
+                   {
+                       "id":  "chibi-2-duvida",
+                       "name":  "2_duvida.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/02_Reacoes_classicas/2_duvida.png",
+                       "extension":  "png",
+                       "size_bytes":  1724415,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/02_Reacoes_classicas/2_duvida.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/02_Reacoes_classicas/2_duvida.png"
+                   },
+                   {
+                       "id":  "chibi-2-joinha",
+                       "name":  "2_joinha.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/02_Reacoes_classicas/2_joinha.png",
+                       "extension":  "png",
+                       "size_bytes":  1785750,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/02_Reacoes_classicas/2_joinha.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/02_Reacoes_classicas/2_joinha.png"
+                   },
+                   {
+                       "id":  "chibi-2-sono",
+                       "name":  "2_sono.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/02_Reacoes_classicas/2_sono.png",
+                       "extension":  "png",
+                       "size_bytes":  1724061,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/02_Reacoes_classicas/2_sono.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/02_Reacoes_classicas/2_sono.png"
+                   },
+                   {
+                       "id":  "chibi-3-susto",
+                       "name":  "3_susto.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/02_Reacoes_classicas/3_susto.png",
+                       "extension":  "png",
+                       "size_bytes":  1936613,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/02_Reacoes_classicas/3_susto.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/02_Reacoes_classicas/3_susto.png"
+                   },
+                   {
+                       "id":  "chibi-beijo",
+                       "name":  "beijo.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/02_Reacoes_classicas/beijo.png",
+                       "extension":  "png",
+                       "size_bytes":  1813216,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/02_Reacoes_classicas/beijo.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/02_Reacoes_classicas/beijo.png"
+                   },
+                   {
+                       "id":  "chibi-dislike",
+                       "name":  "dislike.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/02_Reacoes_classicas/dislike.png",
+                       "extension":  "png",
+                       "size_bytes":  1840645,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/02_Reacoes_classicas/dislike.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/02_Reacoes_classicas/dislike.png"
+                   },
+                   {
+                       "id":  "chibi-facepalm",
+                       "name":  "facepalm.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/02_Reacoes_classicas/facepalm.png",
+                       "extension":  "png",
+                       "size_bytes":  1652327,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/02_Reacoes_classicas/facepalm.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/02_Reacoes_classicas/facepalm.png"
+                   },
+                   {
+                       "id":  "chibi-1-lobisomem",
+                       "name":  "1_lobisomem.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/03_Reacoes_meme_tentativa_lobisomem/1_lobisomem.png",
+                       "extension":  "png",
+                       "size_bytes":  2419583,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/03_Reacoes_meme_tentativa_lobisomem/1_lobisomem.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/03_Reacoes_meme_tentativa_lobisomem/1_lobisomem.png"
+                   },
+                   {
+                       "id":  "chibi-2-lobisomem",
+                       "name":  "2_lobisomem.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/03_Reacoes_meme_tentativa_lobisomem/2_lobisomem.png",
+                       "extension":  "png",
+                       "size_bytes":  2419022,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/03_Reacoes_meme_tentativa_lobisomem/2_lobisomem.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/03_Reacoes_meme_tentativa_lobisomem/2_lobisomem.png"
+                   },
+                   {
+                       "id":  "chibi-3-lobisomem",
+                       "name":  "3_lobisomem.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/03_Reacoes_meme_tentativa_lobisomem/3_lobisomem.png",
+                       "extension":  "png",
+                       "size_bytes":  1844499,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/03_Reacoes_meme_tentativa_lobisomem/3_lobisomem.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/03_Reacoes_meme_tentativa_lobisomem/3_lobisomem.png"
+                   },
+                   {
+                       "id":  "chibi-1-alerta",
+                       "name":  "1_alerta.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/04_Utilidade_servidor/1_alerta.png",
+                       "extension":  "png",
+                       "size_bytes":  2310992,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/04_Utilidade_servidor/1_alerta.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/04_Utilidade_servidor/1_alerta.png"
+                   },
+                   {
+                       "id":  "chibi-1-checklist",
+                       "name":  "1_checklist.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/04_Utilidade_servidor/1_checklist.png",
+                       "extension":  "png",
+                       "size_bytes":  2381074,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/04_Utilidade_servidor/1_checklist.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/04_Utilidade_servidor/1_checklist.png"
+                   },
+                   {
+                       "id":  "chibi-2-alerta",
+                       "name":  "2_alerta.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/04_Utilidade_servidor/2_alerta.png",
+                       "extension":  "png",
+                       "size_bytes":  2310992,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/04_Utilidade_servidor/2_alerta.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/04_Utilidade_servidor/2_alerta.png"
+                   },
+                   {
+                       "id":  "chibi-2-escudo",
+                       "name":  "2_escudo.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/04_Utilidade_servidor/2_escudo.png",
+                       "extension":  "png",
+                       "size_bytes":  2452105,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/04_Utilidade_servidor/2_escudo.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/04_Utilidade_servidor/2_escudo.png"
+                   },
+                   {
+                       "id":  "chibi-aprovado",
+                       "name":  "aprovado.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/04_Utilidade_servidor/aprovado.png",
+                       "extension":  "png",
+                       "size_bytes":  2292156,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/04_Utilidade_servidor/aprovado.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/04_Utilidade_servidor/aprovado.png"
+                   },
+                   {
+                       "id":  "chibi-bot",
+                       "name":  "bot.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/04_Utilidade_servidor/bot.png",
+                       "extension":  "png",
+                       "size_bytes":  2615796,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/04_Utilidade_servidor/bot.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/04_Utilidade_servidor/bot.png"
+                   },
+                   {
+                       "id":  "chibi-configuracao",
+                       "name":  "configuracao.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/04_Utilidade_servidor/configuracao.png",
+                       "extension":  "png",
+                       "size_bytes":  2414042,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/04_Utilidade_servidor/configuracao.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/04_Utilidade_servidor/configuracao.png"
+                   },
+                   {
+                       "id":  "chibi-membros",
+                       "name":  "membros.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/04_Utilidade_servidor/membros.png",
+                       "extension":  "png",
+                       "size_bytes":  2516214,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/04_Utilidade_servidor/membros.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/04_Utilidade_servidor/membros.png"
+                   },
+                   {
+                       "id":  "chibi-mute",
+                       "name":  "mute.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/04_Utilidade_servidor/mute.png",
+                       "extension":  "png",
+                       "size_bytes":  2269869,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/04_Utilidade_servidor/mute.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/04_Utilidade_servidor/mute.png"
+                   },
+                   {
+                       "id":  "chibi-negado",
+                       "name":  "negado.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/04_Utilidade_servidor/negado.png",
+                       "extension":  "png",
+                       "size_bytes":  2338020,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/04_Utilidade_servidor/negado.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/04_Utilidade_servidor/negado.png"
+                   },
+                   {
+                       "id":  "chibi-suporte",
+                       "name":  "suporte.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/04_Utilidade_servidor/suporte.png",
+                       "extension":  "png",
+                       "size_bytes":  2355939,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/04_Utilidade_servidor/suporte.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/04_Utilidade_servidor/suporte.png"
+                   },
+                   {
+                       "id":  "chibi-2-ban",
+                       "name":  "2_ban.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/05_Moderacao/2_ban.png",
+                       "extension":  "png",
+                       "size_bytes":  2286460,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/05_Moderacao/2_ban.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/05_Moderacao/2_ban.png"
+                   },
+                   {
+                       "id":  "chibi-advertencia",
+                       "name":  "advertencia.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/05_Moderacao/advertencia.png",
+                       "extension":  "png",
+                       "size_bytes":  1983592,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/05_Moderacao/advertencia.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/05_Moderacao/advertencia.png"
+                   },
+                   {
+                       "id":  "chibi-bloqueando-mensagens",
+                       "name":  "bloqueando_mensagens.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/05_Moderacao/bloqueando_mensagens.png",
+                       "extension":  "png",
+                       "size_bytes":  2146367,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/05_Moderacao/bloqueando_mensagens.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/05_Moderacao/bloqueando_mensagens.png"
+                   },
+                   {
+                       "id":  "chibi-espera",
+                       "name":  "espera.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/05_Moderacao/espera.png",
+                       "extension":  "png",
+                       "size_bytes":  2033918,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/05_Moderacao/espera.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/05_Moderacao/espera.png"
+                   },
+                   {
+                       "id":  "chibi-investigando",
+                       "name":  "investigando.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/05_Moderacao/investigando.png",
+                       "extension":  "png",
+                       "size_bytes":  2330718,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/05_Moderacao/investigando.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/05_Moderacao/investigando.png"
+                   },
+                   {
+                       "id":  "chibi-kick",
+                       "name":  "kick.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/05_Moderacao/kick.png",
+                       "extension":  "png",
+                       "size_bytes":  1942144,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/05_Moderacao/kick.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/05_Moderacao/kick.png"
+                   },
+                   {
+                       "id":  "chibi-monitoramento",
+                       "name":  "monitoramento.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/05_Moderacao/monitoramento.png",
+                       "extension":  "png",
+                       "size_bytes":  2371093,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/05_Moderacao/monitoramento.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/05_Moderacao/monitoramento.png"
+                   },
+                   {
+                       "id":  "chibi-protegendo-acesso",
+                       "name":  "protegendo_acesso.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/05_Moderacao/protegendo_acesso.png",
+                       "extension":  "png",
+                       "size_bytes":  2294367,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/05_Moderacao/protegendo_acesso.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/05_Moderacao/protegendo_acesso.png"
+                   },
+                   {
+                       "id":  "chibi-staff",
+                       "name":  "staff.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/05_Moderacao/staff.png",
+                       "extension":  "png",
+                       "size_bytes":  1908438,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/05_Moderacao/staff.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/05_Moderacao/staff.png"
+                   },
+                   {
+                       "id":  "chibi-trancando-acesso",
+                       "name":  "trancando_acesso.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/05_Moderacao/trancando_acesso.png",
+                       "extension":  "png",
+                       "size_bytes":  1999351,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/05_Moderacao/trancando_acesso.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/05_Moderacao/trancando_acesso.png"
+                   },
+                   {
+                       "id":  "chibi-1-abraco",
+                       "name":  "1_abraco.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/06_Reacoes_sociais/1_abraco.png",
+                       "extension":  "png",
+                       "size_bytes":  2085259,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/06_Reacoes_sociais/1_abraco.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/06_Reacoes_sociais/1_abraco.png"
+                   },
+                   {
+                       "id":  "chibi-1-confiante",
+                       "name":  "1_confiante.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/06_Reacoes_sociais/1_confiante.png",
+                       "extension":  "png",
+                       "size_bytes":  1890454,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/06_Reacoes_sociais/1_confiante.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/06_Reacoes_sociais/1_confiante.png"
+                   },
+                   {
+                       "id":  "chibi-1-oi",
+                       "name":  "1_oi.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/06_Reacoes_sociais/1_oi.png",
+                       "extension":  "png",
+                       "size_bytes":  1781792,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/06_Reacoes_sociais/1_oi.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/06_Reacoes_sociais/1_oi.png"
+                   },
+                   {
+                       "id":  "chibi-2-abraco",
+                       "name":  "2_abraco.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/06_Reacoes_sociais/2_abraco.png",
+                       "extension":  "png",
+                       "size_bytes":  2016307,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/06_Reacoes_sociais/2_abraco.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/06_Reacoes_sociais/2_abraco.png"
+                   },
+                   {
+                       "id":  "chibi-2-oi",
+                       "name":  "2_oi.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/06_Reacoes_sociais/2_oi.png",
+                       "extension":  "png",
+                       "size_bytes":  1840956,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/06_Reacoes_sociais/2_oi.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/06_Reacoes_sociais/2_oi.png"
+                   },
+                   {
+                       "id":  "chibi-4-alegria",
+                       "name":  "4_alegria.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/06_Reacoes_sociais/4_alegria.png",
+                       "extension":  "png",
+                       "size_bytes":  2140590,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/06_Reacoes_sociais/4_alegria.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/06_Reacoes_sociais/4_alegria.png"
+                   },
+                   {
+                       "id":  "chibi-4-coracao",
+                       "name":  "4_coracao.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/06_Reacoes_sociais/4_coracao.png",
+                       "extension":  "png",
+                       "size_bytes":  2137709,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/06_Reacoes_sociais/4_coracao.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/06_Reacoes_sociais/4_coracao.png"
+                   },
+                   {
+                       "id":  "chibi-obrigado",
+                       "name":  "obrigado.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/06_Reacoes_sociais/obrigado.png",
+                       "extension":  "png",
+                       "size_bytes":  1869303,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/06_Reacoes_sociais/obrigado.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/06_Reacoes_sociais/obrigado.png"
+                   },
+                   {
+                       "id":  "chibi-trofeu",
+                       "name":  "trofeu.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/06_Reacoes_sociais/trofeu.png",
+                       "extension":  "png",
+                       "size_bytes":  2138171,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/06_Reacoes_sociais/trofeu.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/06_Reacoes_sociais/trofeu.png"
+                   },
+                   {
+                       "id":  "chibi-vergonha",
+                       "name":  "vergonha.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/06_Reacoes_sociais/vergonha.png",
+                       "extension":  "png",
+                       "size_bytes":  1835432,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/06_Reacoes_sociais/vergonha.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/06_Reacoes_sociais/vergonha.png"
+                   },
+                   {
+                       "id":  "chibi-2-checklist",
+                       "name":  "2_checklist.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/07_Programacao_desenvolvimento/2_checklist.png",
+                       "extension":  "png",
+                       "size_bytes":  2194621,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/07_Programacao_desenvolvimento/2_checklist.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/07_Programacao_desenvolvimento/2_checklist.png"
+                   },
+                   {
+                       "id":  "chibi-api",
+                       "name":  "api.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/07_Programacao_desenvolvimento/api.png",
+                       "extension":  "png",
+                       "size_bytes":  2382475,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/07_Programacao_desenvolvimento/api.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/07_Programacao_desenvolvimento/api.png"
+                   },
+                   {
+                       "id":  "chibi-automacao",
+                       "name":  "automacao.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/07_Programacao_desenvolvimento/automacao.png",
+                       "extension":  "png",
+                       "size_bytes":  2454647,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/07_Programacao_desenvolvimento/automacao.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/07_Programacao_desenvolvimento/automacao.png"
+                   },
+                   {
+                       "id":  "chibi-banco-de-dados",
+                       "name":  "banco_de_dados.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/07_Programacao_desenvolvimento/banco_de_dados.png",
+                       "extension":  "png",
+                       "size_bytes":  2413597,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/07_Programacao_desenvolvimento/banco_de_dados.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/07_Programacao_desenvolvimento/banco_de_dados.png"
+                   },
+                   {
+                       "id":  "chibi-codigo",
+                       "name":  "codigo.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/07_Programacao_desenvolvimento/codigo.png",
+                       "extension":  "png",
+                       "size_bytes":  2362183,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/07_Programacao_desenvolvimento/codigo.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/07_Programacao_desenvolvimento/codigo.png"
+                   },
+                   {
+                       "id":  "chibi-corrigindo-erros",
+                       "name":  "corrigindo_erros.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/07_Programacao_desenvolvimento/corrigindo_erros.png",
+                       "extension":  "png",
+                       "size_bytes":  2581356,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/07_Programacao_desenvolvimento/corrigindo_erros.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/07_Programacao_desenvolvimento/corrigindo_erros.png"
+                   },
+                   {
+                       "id":  "chibi-debug",
+                       "name":  "debug.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/07_Programacao_desenvolvimento/debug.png",
+                       "extension":  "png",
+                       "size_bytes":  2469085,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/07_Programacao_desenvolvimento/debug.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/07_Programacao_desenvolvimento/debug.png"
+                   },
+                   {
+                       "id":  "chibi-deploy",
+                       "name":  "deploy.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/07_Programacao_desenvolvimento/deploy.png",
+                       "extension":  "png",
+                       "size_bytes":  2491383,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/07_Programacao_desenvolvimento/deploy.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/07_Programacao_desenvolvimento/deploy.png"
+                   },
+                   {
+                       "id":  "chibi-fluxo",
+                       "name":  "fluxo.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/07_Programacao_desenvolvimento/fluxo.png",
+                       "extension":  "png",
+                       "size_bytes":  2437554,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/07_Programacao_desenvolvimento/fluxo.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/07_Programacao_desenvolvimento/fluxo.png"
+                   },
+                   {
+                       "id":  "chibi-programando",
+                       "name":  "programando.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/07_Programacao_desenvolvimento/programando.png",
+                       "extension":  "png",
+                       "size_bytes":  2333739,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/07_Programacao_desenvolvimento/programando.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/07_Programacao_desenvolvimento/programando.png"
+                   },
+                   {
+                       "id":  "chibi-2-gamer",
+                       "name":  "2_gamer.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/08_Gamer/2_gamer.png",
+                       "extension":  "png",
+                       "size_bytes":  2102937,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/08_Gamer/2_gamer.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/08_Gamer/2_gamer.png"
+                   },
+                   {
+                       "id":  "chibi-3-gamer",
+                       "name":  "3_gamer.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/08_Gamer/3_gamer.png",
+                       "extension":  "png",
+                       "size_bytes":  2495121,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/08_Gamer/3_gamer.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/08_Gamer/3_gamer.png"
+                   },
+                   {
+                       "id":  "chibi-batalha",
+                       "name":  "batalha.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/08_Gamer/batalha.png",
+                       "extension":  "png",
+                       "size_bytes":  2393755,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/08_Gamer/batalha.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/08_Gamer/batalha.png"
+                   },
+                   {
+                       "id":  "chibi-lag",
+                       "name":  "lag.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/08_Gamer/lag.png",
+                       "extension":  "png",
+                       "size_bytes":  2229419,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/08_Gamer/lag.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/08_Gamer/lag.png"
+                   },
+                   {
+                       "id":  "chibi-mira",
+                       "name":  "mira.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/08_Gamer/mira.png",
+                       "extension":  "png",
+                       "size_bytes":  2125467,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/08_Gamer/mira.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/08_Gamer/mira.png"
+                   },
+                   {
+                       "id":  "chibi-mvp",
+                       "name":  "mvp.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/08_Gamer/mvp.png",
+                       "extension":  "png",
+                       "size_bytes":  2548049,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/08_Gamer/mvp.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/08_Gamer/mvp.png"
+                   },
+                   {
+                       "id":  "chibi-pipoca",
+                       "name":  "pipoca.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/08_Gamer/pipoca.png",
+                       "extension":  "png",
+                       "size_bytes":  2205576,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/08_Gamer/pipoca.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/08_Gamer/pipoca.png"
+                   },
+                   {
+                       "id":  "chibi-rage",
+                       "name":  "rage.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/08_Gamer/rage.png",
+                       "extension":  "png",
+                       "size_bytes":  2230217,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/08_Gamer/rage.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/08_Gamer/rage.png"
+                   },
+                   {
+                       "id":  "chibi-rankup",
+                       "name":  "rankup.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/08_Gamer/rankup.png",
+                       "extension":  "png",
+                       "size_bytes":  2496496,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/08_Gamer/rankup.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/08_Gamer/rankup.png"
+                   },
+                   {
+                       "id":  "chibi-tryhard",
+                       "name":  "tryhard.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/08_Gamer/tryhard.png",
+                       "extension":  "png",
+                       "size_bytes":  2448343,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/08_Gamer/tryhard.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/08_Gamer/tryhard.png"
+                   },
+                   {
+                       "id":  "chibi-3-joinha",
+                       "name":  "3_joinha.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/09_Memes_zoeira/3_joinha.png",
+                       "extension":  "png",
+                       "size_bytes":  2110871,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/09_Memes_zoeira/3_joinha.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/09_Memes_zoeira/3_joinha.png"
+                   },
+                   {
+                       "id":  "chibi-3-rindo",
+                       "name":  "3_rindo.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/09_Memes_zoeira/3_rindo.png",
+                       "extension":  "png",
+                       "size_bytes":  2106012,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/09_Memes_zoeira/3_rindo.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/09_Memes_zoeira/3_rindo.png"
+                   },
+                   {
+                       "id":  "chibi-cansado",
+                       "name":  "cansado.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/09_Memes_zoeira/cansado.png",
+                       "extension":  "png",
+                       "size_bytes":  1789161,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/09_Memes_zoeira/cansado.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/09_Memes_zoeira/cansado.png"
+                   },
+                   {
+                       "id":  "chibi-confuso",
+                       "name":  "confuso.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/09_Memes_zoeira/confuso.png",
+                       "extension":  "png",
+                       "size_bytes":  2196268,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/09_Memes_zoeira/confuso.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/09_Memes_zoeira/confuso.png"
+                   },
+                   {
+                       "id":  "chibi-desespero",
+                       "name":  "desespero.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/09_Memes_zoeira/desespero.png",
+                       "extension":  "png",
+                       "size_bytes":  2353263,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/09_Memes_zoeira/desespero.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/09_Memes_zoeira/desespero.png"
+                   },
+                   {
+                       "id":  "chibi-enjoado",
+                       "name":  "enjoado.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/09_Memes_zoeira/enjoado.png",
+                       "extension":  "png",
+                       "size_bytes":  2102477,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/09_Memes_zoeira/enjoado.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/09_Memes_zoeira/enjoado.png"
+                   },
+                   {
+                       "id":  "chibi-gritando",
+                       "name":  "gritando.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/09_Memes_zoeira/gritando.png",
+                       "extension":  "png",
+                       "size_bytes":  2295393,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/09_Memes_zoeira/gritando.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/09_Memes_zoeira/gritando.png"
+                   },
+                   {
+                       "id":  "chibi-medo",
+                       "name":  "medo.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/09_Memes_zoeira/medo.png",
+                       "extension":  "png",
+                       "size_bytes":  1801702,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/09_Memes_zoeira/medo.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/09_Memes_zoeira/medo.png"
+                   },
+                   {
+                       "id":  "chibi-preocupado",
+                       "name":  "preocupado.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/09_Memes_zoeira/preocupado.png",
+                       "extension":  "png",
+                       "size_bytes":  1966009,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/09_Memes_zoeira/preocupado.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/09_Memes_zoeira/preocupado.png"
+                   },
+                   {
+                       "id":  "chibi-triste",
+                       "name":  "triste.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/09_Memes_zoeira/triste.png",
+                       "extension":  "png",
+                       "size_bytes":  2240069,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/09_Memes_zoeira/triste.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/09_Memes_zoeira/triste.png"
+                   },
+                   {
+                       "id":  "chibi-1-diamante",
+                       "name":  "1_diamante.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/10_Premium/1_diamante.png",
+                       "extension":  "png",
+                       "size_bytes":  2423731,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/10_Premium/1_diamante.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/10_Premium/1_diamante.png"
+                   },
+                   {
+                       "id":  "chibi-1-isso-ae",
+                       "name":  "1_isso_ae.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/10_Premium/1_isso_ae.png",
+                       "extension":  "png",
+                       "size_bytes":  2224656,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/10_Premium/1_isso_ae.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/10_Premium/1_isso_ae.png"
+                   },
+                   {
+                       "id":  "chibi-1-rei",
+                       "name":  "1_rei.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/10_Premium/1_rei.png",
+                       "extension":  "png",
+                       "size_bytes":  2495813,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/10_Premium/1_rei.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/10_Premium/1_rei.png"
+                   },
+                   {
+                       "id":  "chibi-2-confiante",
+                       "name":  "2_confiante.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/10_Premium/2_confiante.png",
+                       "extension":  "png",
+                       "size_bytes":  2332418,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/10_Premium/2_confiante.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/10_Premium/2_confiante.png"
+                   },
+                   {
+                       "id":  "chibi-2-diamante",
+                       "name":  "2_diamante.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/10_Premium/2_diamante.png",
+                       "extension":  "png",
+                       "size_bytes":  2639958,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/10_Premium/2_diamante.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/10_Premium/2_diamante.png"
+                   },
+                   {
+                       "id":  "chibi-3-rei",
+                       "name":  "3_rei.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/10_Premium/3_rei.png",
+                       "extension":  "png",
+                       "size_bytes":  2625221,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/10_Premium/3_rei.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/10_Premium/3_rei.png"
+                   },
+                   {
+                       "id":  "chibi-4-rei",
+                       "name":  "4_rei.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/10_Premium/4_rei.png",
+                       "extension":  "png",
+                       "size_bytes":  2796471,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/10_Premium/4_rei.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/10_Premium/4_rei.png"
+                   },
+                   {
+                       "id":  "chibi-imagem-do-chatgpt-12-de-out-de-2026-10-42-41",
+                       "name":  "Imagem do ChatGPT 12 de out. de 2026, 10_42_41.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/10_Premium/Imagem do ChatGPT 12 de out. de 2026, 10_42_41.png",
+                       "extension":  "png",
+                       "size_bytes":  2711801,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/10_Premium/Imagem%20do%20ChatGPT%2012%20de%20out.%20de%202026%2C%2010_42_41.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/10_Premium/Imagem%20do%20ChatGPT%2012%20de%20out.%20de%202026%2C%2010_42_41.png"
+                   },
+                   {
+                       "id":  "chibi-medalha",
+                       "name":  "medalha.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/10_Premium/medalha.png",
+                       "extension":  "png",
+                       "size_bytes":  2459959,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/10_Premium/medalha.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/10_Premium/medalha.png"
+                   },
+                   {
+                       "id":  "chibi-riqueza",
+                       "name":  "riqueza.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/10_Premium/riqueza.png",
+                       "extension":  "png",
+                       "size_bytes":  2711801,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/10_Premium/riqueza.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/10_Premium/riqueza.png"
+                   },
+                   {
+                       "id":  "chibi-vip",
+                       "name":  "vip.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/10_Premium/vip.png",
+                       "extension":  "png",
+                       "size_bytes":  2590945,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/10_Premium/vip.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/10_Premium/vip.png"
+                   },
+                   {
+                       "id":  "chibi-1-abobora",
+                       "name":  "1_abobora.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/11_Halloween/1_abobora.png",
+                       "extension":  "png",
+                       "size_bytes":  1883499,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/11_Halloween/1_abobora.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/11_Halloween/1_abobora.png"
+                   },
+                   {
+                       "id":  "chibi-1-bruxo",
+                       "name":  "1_bruxo.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/11_Halloween/1_bruxo.png",
+                       "extension":  "png",
+                       "size_bytes":  2399909,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/11_Halloween/1_bruxo.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/11_Halloween/1_bruxo.png"
+                   },
+                   {
+                       "id":  "chibi-1-vampiro",
+                       "name":  "1_vampiro.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/11_Halloween/1_vampiro.png",
+                       "extension":  "png",
+                       "size_bytes":  2205756,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/11_Halloween/1_vampiro.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/11_Halloween/1_vampiro.png"
+                   },
+                   {
+                       "id":  "chibi-2-abobora",
+                       "name":  "2_abobora.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/11_Halloween/2_abobora.png",
+                       "extension":  "png",
+                       "size_bytes":  2346336,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/11_Halloween/2_abobora.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/11_Halloween/2_abobora.png"
+                   },
+                   {
+                       "id":  "chibi-2-bruxo",
+                       "name":  "2_bruxo.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/11_Halloween/2_bruxo.png",
+                       "extension":  "png",
+                       "size_bytes":  2331196,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/11_Halloween/2_bruxo.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/11_Halloween/2_bruxo.png"
+                   },
+                   {
+                       "id":  "chibi-2-vampiro",
+                       "name":  "2_vampiro.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/11_Halloween/2_vampiro.png",
+                       "extension":  "png",
+                       "size_bytes":  1896707,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/11_Halloween/2_vampiro.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/11_Halloween/2_vampiro.png"
+                   },
+                   {
+                       "id":  "chibi-demonio",
+                       "name":  "demonio.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/11_Halloween/demonio.png",
+                       "extension":  "png",
+                       "size_bytes":  2256823,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/11_Halloween/demonio.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/11_Halloween/demonio.png"
+                   },
+                   {
+                       "id":  "chibi-esqueleto",
+                       "name":  "esqueleto.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/11_Halloween/esqueleto.png",
+                       "extension":  "png",
+                       "size_bytes":  2055380,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/11_Halloween/esqueleto.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/11_Halloween/esqueleto.png"
+                   },
+                   {
+                       "id":  "chibi-fantasma",
+                       "name":  "fantasma.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/11_Halloween/fantasma.png",
+                       "extension":  "png",
+                       "size_bytes":  2177451,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/11_Halloween/fantasma.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/11_Halloween/fantasma.png"
+                   },
+                   {
+                       "id":  "chibi-mumia",
+                       "name":  "mumia.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/11_Halloween/mumia.png",
+                       "extension":  "png",
+                       "size_bytes":  1851845,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/11_Halloween/mumia.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/11_Halloween/mumia.png"
+                   },
+                   {
+                       "id":  "chibi-1-papai-noel",
+                       "name":  "1_papai_noel.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/12_Natal_ano_novo_tentativas/1_papai_noel.png",
+                       "extension":  "png",
+                       "size_bytes":  1973495,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/12_Natal_ano_novo_tentativas/1_papai_noel.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/12_Natal_ano_novo_tentativas/1_papai_noel.png"
+                   },
+                   {
+                       "id":  "chibi-2-papai-noel",
+                       "name":  "2_papai_noel.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/12_Natal_ano_novo_tentativas/2_papai_noel.png",
+                       "extension":  "png",
+                       "size_bytes":  2312131,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/12_Natal_ano_novo_tentativas/2_papai_noel.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/12_Natal_ano_novo_tentativas/2_papai_noel.png"
+                   },
+                   {
+                       "id":  "chibi-3-papai-noel",
+                       "name":  "3_papai_noel.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/12_Natal_ano_novo_tentativas/3_papai_noel.png",
+                       "extension":  "png",
+                       "size_bytes":  1922976,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/12_Natal_ano_novo_tentativas/3_papai_noel.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/12_Natal_ano_novo_tentativas/3_papai_noel.png"
+                   },
+                   {
+                       "id":  "chibi-imagem-do-chatgpt-12-de-out-de-2026-10-43-35",
+                       "name":  "Imagem do ChatGPT 12 de out. de 2026, 10_43_35.png",
+                       "category":  "chibi",
+                       "path":  "assets/chibi/99_Origem_a_conferir/Imagem do ChatGPT 12 de out. de 2026, 10_43_35.png",
+                       "extension":  "png",
+                       "size_bytes":  1604637,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/chibi/99_Origem_a_conferir/Imagem%20do%20ChatGPT%2012%20de%20out.%20de%202026%2C%2010_43_35.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/chibi/99_Origem_a_conferir/Imagem%20do%20ChatGPT%2012%20de%20out.%20de%202026%2C%2010_43_35.png"
+                   },
+                   {
+                       "id":  "emotes-00812ebf-203b-4681-80c0-1047fcab786f-1",
+                       "name":  "00812ebf-203b-4681-80c0-1047fcab786f (1).png",
+                       "category":  "emotes",
+                       "path":  "assets/emotes/00812ebf-203b-4681-80c0-1047fcab786f (1).png",
+                       "extension":  "png",
+                       "size_bytes":  2711580,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/emotes/00812ebf-203b-4681-80c0-1047fcab786f%20(1).png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/emotes/00812ebf-203b-4681-80c0-1047fcab786f%20(1).png"
+                   },
+                   {
+                       "id":  "emotes-00812ebf-203b-4681-80c0-1047fcab786f",
+                       "name":  "00812ebf-203b-4681-80c0-1047fcab786f.png",
+                       "category":  "emotes",
+                       "path":  "assets/emotes/00812ebf-203b-4681-80c0-1047fcab786f.png",
+                       "extension":  "png",
+                       "size_bytes":  2711580,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/emotes/00812ebf-203b-4681-80c0-1047fcab786f.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/emotes/00812ebf-203b-4681-80c0-1047fcab786f.png"
+                   },
+                   {
+                       "id":  "emotes-01f3cb3d-d937-433a-8ce4-b1e6d8f940bb",
+                       "name":  "01f3cb3d-d937-433a-8ce4-b1e6d8f940bb.png",
+                       "category":  "emotes",
+                       "path":  "assets/emotes/01f3cb3d-d937-433a-8ce4-b1e6d8f940bb.png",
+                       "extension":  "png",
+                       "size_bytes":  2544511,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/emotes/01f3cb3d-d937-433a-8ce4-b1e6d8f940bb.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/emotes/01f3cb3d-d937-433a-8ce4-b1e6d8f940bb.png"
+                   },
+                   {
+                       "id":  "emotes-0329e162-7d5e-471b-8922-6f66470bfa4a",
+                       "name":  "0329e162-7d5e-471b-8922-6f66470bfa4a.png",
+                       "category":  "emotes",
+                       "path":  "assets/emotes/0329e162-7d5e-471b-8922-6f66470bfa4a.png",
+                       "extension":  "png",
+                       "size_bytes":  2478656,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/emotes/0329e162-7d5e-471b-8922-6f66470bfa4a.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/emotes/0329e162-7d5e-471b-8922-6f66470bfa4a.png"
+                   },
+                   {
+                       "id":  "emotes-0d45a916-1095-4290-a77a-8184ae607415",
+                       "name":  "0d45a916-1095-4290-a77a-8184ae607415.png",
+                       "category":  "emotes",
+                       "path":  "assets/emotes/0d45a916-1095-4290-a77a-8184ae607415.png",
+                       "extension":  "png",
+                       "size_bytes":  1999144,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/emotes/0d45a916-1095-4290-a77a-8184ae607415.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/emotes/0d45a916-1095-4290-a77a-8184ae607415.png"
+                   },
+                   {
+                       "id":  "emotes-1056e014-b7db-4f1b-befa-08ee2a7b848d",
+                       "name":  "1056e014-b7db-4f1b-befa-08ee2a7b848d.png",
+                       "category":  "emotes",
+                       "path":  "assets/emotes/1056e014-b7db-4f1b-befa-08ee2a7b848d.png",
+                       "extension":  "png",
+                       "size_bytes":  2007880,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/emotes/1056e014-b7db-4f1b-befa-08ee2a7b848d.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/emotes/1056e014-b7db-4f1b-befa-08ee2a7b848d.png"
+                   },
+                   {
+                       "id":  "emotes-13d0e4cf-f7fe-4e3b-b142-8bfa383c77c0-1",
+                       "name":  "13d0e4cf-f7fe-4e3b-b142-8bfa383c77c0 (1).png",
+                       "category":  "emotes",
+                       "path":  "assets/emotes/13d0e4cf-f7fe-4e3b-b142-8bfa383c77c0 (1).png",
+                       "extension":  "png",
+                       "size_bytes":  2135898,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/emotes/13d0e4cf-f7fe-4e3b-b142-8bfa383c77c0%20(1).png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/emotes/13d0e4cf-f7fe-4e3b-b142-8bfa383c77c0%20(1).png"
+                   },
+                   {
+                       "id":  "emotes-1da3669c-6ab1-414b-8390-3851fb3e8b77",
+                       "name":  "1da3669c-6ab1-414b-8390-3851fb3e8b77.png",
+                       "category":  "emotes",
+                       "path":  "assets/emotes/1da3669c-6ab1-414b-8390-3851fb3e8b77.png",
+                       "extension":  "png",
+                       "size_bytes":  1563992,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/emotes/1da3669c-6ab1-414b-8390-3851fb3e8b77.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/emotes/1da3669c-6ab1-414b-8390-3851fb3e8b77.png"
+                   },
+                   {
+                       "id":  "emotes-25a29cf0-8835-413c-90ef-b632cf7b1e77-1",
+                       "name":  "25a29cf0-8835-413c-90ef-b632cf7b1e77 (1).png",
+                       "category":  "emotes",
+                       "path":  "assets/emotes/25a29cf0-8835-413c-90ef-b632cf7b1e77 (1).png",
+                       "extension":  "png",
+                       "size_bytes":  2318775,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/emotes/25a29cf0-8835-413c-90ef-b632cf7b1e77%20(1).png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/emotes/25a29cf0-8835-413c-90ef-b632cf7b1e77%20(1).png"
+                   },
+                   {
+                       "id":  "emotes-25a29cf0-8835-413c-90ef-b632cf7b1e77",
+                       "name":  "25a29cf0-8835-413c-90ef-b632cf7b1e77.png",
+                       "category":  "emotes",
+                       "path":  "assets/emotes/25a29cf0-8835-413c-90ef-b632cf7b1e77.png",
+                       "extension":  "png",
+                       "size_bytes":  2318775,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/emotes/25a29cf0-8835-413c-90ef-b632cf7b1e77.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/emotes/25a29cf0-8835-413c-90ef-b632cf7b1e77.png"
+                   },
+                   {
+                       "id":  "emotes-29ea9b4a-ff66-46be-825b-1a8c0ca5a64f",
+                       "name":  "29ea9b4a-ff66-46be-825b-1a8c0ca5a64f.png",
+                       "category":  "emotes",
+                       "path":  "assets/emotes/29ea9b4a-ff66-46be-825b-1a8c0ca5a64f.png",
+                       "extension":  "png",
+                       "size_bytes":  2575189,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/emotes/29ea9b4a-ff66-46be-825b-1a8c0ca5a64f.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/emotes/29ea9b4a-ff66-46be-825b-1a8c0ca5a64f.png"
+                   },
+                   {
+                       "id":  "emotes-2b026b7f-50de-429d-8449-d32b26e741f2",
+                       "name":  "2b026b7f-50de-429d-8449-d32b26e741f2.png",
+                       "category":  "emotes",
+                       "path":  "assets/emotes/2b026b7f-50de-429d-8449-d32b26e741f2.png",
+                       "extension":  "png",
+                       "size_bytes":  1614257,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/emotes/2b026b7f-50de-429d-8449-d32b26e741f2.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/emotes/2b026b7f-50de-429d-8449-d32b26e741f2.png"
+                   },
+                   {
+                       "id":  "emotes-2bb11053-6d44-4d9b-9842-458a75988eb1",
+                       "name":  "2bb11053-6d44-4d9b-9842-458a75988eb1.png",
+                       "category":  "emotes",
+                       "path":  "assets/emotes/2bb11053-6d44-4d9b-9842-458a75988eb1.png",
+                       "extension":  "png",
+                       "size_bytes":  1987192,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/emotes/2bb11053-6d44-4d9b-9842-458a75988eb1.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/emotes/2bb11053-6d44-4d9b-9842-458a75988eb1.png"
+                   },
+                   {
+                       "id":  "emotes-2c4941cc-c77b-48a2-93cd-7101db7f2242",
+                       "name":  "2c4941cc-c77b-48a2-93cd-7101db7f2242.png",
+                       "category":  "emotes",
+                       "path":  "assets/emotes/2c4941cc-c77b-48a2-93cd-7101db7f2242.png",
+                       "extension":  "png",
+                       "size_bytes":  2486402,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/emotes/2c4941cc-c77b-48a2-93cd-7101db7f2242.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/emotes/2c4941cc-c77b-48a2-93cd-7101db7f2242.png"
+                   },
+                   {
+                       "id":  "emotes-2d4f4cb6-109f-429d-87f0-c38ffccbeff8",
+                       "name":  "2d4f4cb6-109f-429d-87f0-c38ffccbeff8.png",
+                       "category":  "emotes",
+                       "path":  "assets/emotes/2d4f4cb6-109f-429d-87f0-c38ffccbeff8.png",
+                       "extension":  "png",
+                       "size_bytes":  2096914,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/emotes/2d4f4cb6-109f-429d-87f0-c38ffccbeff8.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/emotes/2d4f4cb6-109f-429d-87f0-c38ffccbeff8.png"
+                   },
+                   {
+                       "id":  "emotes-2ee5d890-31c9-4605-98dc-83bed61de2f9",
+                       "name":  "2ee5d890-31c9-4605-98dc-83bed61de2f9.png",
+                       "category":  "emotes",
+                       "path":  "assets/emotes/2ee5d890-31c9-4605-98dc-83bed61de2f9.png",
+                       "extension":  "png",
+                       "size_bytes":  1716046,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/emotes/2ee5d890-31c9-4605-98dc-83bed61de2f9.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/emotes/2ee5d890-31c9-4605-98dc-83bed61de2f9.png"
+                   },
+                   {
+                       "id":  "emotes-54b2c474-ab46-4820-a9c4-2719e54321c6",
+                       "name":  "54b2c474-ab46-4820-a9c4-2719e54321c6.png",
+                       "category":  "emotes",
+                       "path":  "assets/emotes/54b2c474-ab46-4820-a9c4-2719e54321c6.png",
+                       "extension":  "png",
+                       "size_bytes":  2100949,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/emotes/54b2c474-ab46-4820-a9c4-2719e54321c6.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/emotes/54b2c474-ab46-4820-a9c4-2719e54321c6.png"
+                   },
+                   {
+                       "id":  "emotes-559a0fa0-fe66-4e76-a7c0-133d4f2bfc55",
+                       "name":  "559a0fa0-fe66-4e76-a7c0-133d4f2bfc55.png",
+                       "category":  "emotes",
+                       "path":  "assets/emotes/559a0fa0-fe66-4e76-a7c0-133d4f2bfc55.png",
+                       "extension":  "png",
+                       "size_bytes":  1603897,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/emotes/559a0fa0-fe66-4e76-a7c0-133d4f2bfc55.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/emotes/559a0fa0-fe66-4e76-a7c0-133d4f2bfc55.png"
+                   },
+                   {
+                       "id":  "emotes-5c5d38dd-e57f-4593-9e7d-ffaeee82b797",
+                       "name":  "5c5d38dd-e57f-4593-9e7d-ffaeee82b797.png",
+                       "category":  "emotes",
+                       "path":  "assets/emotes/5c5d38dd-e57f-4593-9e7d-ffaeee82b797.png",
+                       "extension":  "png",
+                       "size_bytes":  2154891,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/emotes/5c5d38dd-e57f-4593-9e7d-ffaeee82b797.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/emotes/5c5d38dd-e57f-4593-9e7d-ffaeee82b797.png"
+                   },
+                   {
+                       "id":  "emotes-6091784e-ff5d-44fd-9a6a-f19515ad242f",
+                       "name":  "6091784e-ff5d-44fd-9a6a-f19515ad242f.png",
+                       "category":  "emotes",
+                       "path":  "assets/emotes/6091784e-ff5d-44fd-9a6a-f19515ad242f.png",
+                       "extension":  "png",
+                       "size_bytes":  1325637,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/emotes/6091784e-ff5d-44fd-9a6a-f19515ad242f.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/emotes/6091784e-ff5d-44fd-9a6a-f19515ad242f.png"
+                   },
+                   {
+                       "id":  "emotes-60f2b026-6a4b-4ade-87fd-e49577290056",
+                       "name":  "60f2b026-6a4b-4ade-87fd-e49577290056.png",
+                       "category":  "emotes",
+                       "path":  "assets/emotes/60f2b026-6a4b-4ade-87fd-e49577290056.png",
+                       "extension":  "png",
+                       "size_bytes":  2758841,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/emotes/60f2b026-6a4b-4ade-87fd-e49577290056.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/emotes/60f2b026-6a4b-4ade-87fd-e49577290056.png"
+                   },
+                   {
+                       "id":  "emotes-6fb47df3-3d98-4468-bab4-e84203cdda14",
+                       "name":  "6fb47df3-3d98-4468-bab4-e84203cdda14.png",
+                       "category":  "emotes",
+                       "path":  "assets/emotes/6fb47df3-3d98-4468-bab4-e84203cdda14.png",
+                       "extension":  "png",
+                       "size_bytes":  2419964,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/emotes/6fb47df3-3d98-4468-bab4-e84203cdda14.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/emotes/6fb47df3-3d98-4468-bab4-e84203cdda14.png"
+                   },
+                   {
+                       "id":  "emotes-7440ac3b-8c61-49eb-9fdc-d785fa26eaba",
+                       "name":  "7440ac3b-8c61-49eb-9fdc-d785fa26eaba.png",
+                       "category":  "emotes",
+                       "path":  "assets/emotes/7440ac3b-8c61-49eb-9fdc-d785fa26eaba.png",
+                       "extension":  "png",
+                       "size_bytes":  2510273,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/emotes/7440ac3b-8c61-49eb-9fdc-d785fa26eaba.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/emotes/7440ac3b-8c61-49eb-9fdc-d785fa26eaba.png"
+                   },
+                   {
+                       "id":  "emotes-782bba3e-12d0-47e3-ada2-819337b27e59",
+                       "name":  "782bba3e-12d0-47e3-ada2-819337b27e59.png",
+                       "category":  "emotes",
+                       "path":  "assets/emotes/782bba3e-12d0-47e3-ada2-819337b27e59.png",
+                       "extension":  "png",
+                       "size_bytes":  1923655,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/emotes/782bba3e-12d0-47e3-ada2-819337b27e59.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/emotes/782bba3e-12d0-47e3-ada2-819337b27e59.png"
+                   },
+                   {
+                       "id":  "emotes-7f0eb2bc-7d2e-428b-9a53-07e675005e91",
+                       "name":  "7f0eb2bc-7d2e-428b-9a53-07e675005e91.png",
+                       "category":  "emotes",
+                       "path":  "assets/emotes/7f0eb2bc-7d2e-428b-9a53-07e675005e91.png",
+                       "extension":  "png",
+                       "size_bytes":  2009267,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/emotes/7f0eb2bc-7d2e-428b-9a53-07e675005e91.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/emotes/7f0eb2bc-7d2e-428b-9a53-07e675005e91.png"
+                   },
+                   {
+                       "id":  "emotes-818f55ad-3153-4bf5-9f5b-c18a2340d560",
+                       "name":  "818f55ad-3153-4bf5-9f5b-c18a2340d560.png",
+                       "category":  "emotes",
+                       "path":  "assets/emotes/818f55ad-3153-4bf5-9f5b-c18a2340d560.png",
+                       "extension":  "png",
+                       "size_bytes":  1973277,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/emotes/818f55ad-3153-4bf5-9f5b-c18a2340d560.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/emotes/818f55ad-3153-4bf5-9f5b-c18a2340d560.png"
+                   },
+                   {
+                       "id":  "emotes-83e7df15-d190-4aba-8554-1eeee233213e",
+                       "name":  "83e7df15-d190-4aba-8554-1eeee233213e.png",
+                       "category":  "emotes",
+                       "path":  "assets/emotes/83e7df15-d190-4aba-8554-1eeee233213e.png",
+                       "extension":  "png",
+                       "size_bytes":  1838868,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/emotes/83e7df15-d190-4aba-8554-1eeee233213e.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/emotes/83e7df15-d190-4aba-8554-1eeee233213e.png"
+                   },
+                   {
+                       "id":  "emotes-85c35ad8-38c6-4ec9-8ec4-f39c8198f3e8",
+                       "name":  "85c35ad8-38c6-4ec9-8ec4-f39c8198f3e8.png",
+                       "category":  "emotes",
+                       "path":  "assets/emotes/85c35ad8-38c6-4ec9-8ec4-f39c8198f3e8.png",
+                       "extension":  "png",
+                       "size_bytes":  2154130,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/emotes/85c35ad8-38c6-4ec9-8ec4-f39c8198f3e8.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/emotes/85c35ad8-38c6-4ec9-8ec4-f39c8198f3e8.png"
+                   },
+                   {
+                       "id":  "emotes-880a598c-9779-43de-9e13-3c37881d7eb4",
+                       "name":  "880a598c-9779-43de-9e13-3c37881d7eb4.png",
+                       "category":  "emotes",
+                       "path":  "assets/emotes/880a598c-9779-43de-9e13-3c37881d7eb4.png",
+                       "extension":  "png",
+                       "size_bytes":  2351669,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/emotes/880a598c-9779-43de-9e13-3c37881d7eb4.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/emotes/880a598c-9779-43de-9e13-3c37881d7eb4.png"
+                   },
+                   {
+                       "id":  "emotes-8c41c6e3-75a7-4ba2-96cc-247f670f9947",
+                       "name":  "8c41c6e3-75a7-4ba2-96cc-247f670f9947.png",
+                       "category":  "emotes",
+                       "path":  "assets/emotes/8c41c6e3-75a7-4ba2-96cc-247f670f9947.png",
+                       "extension":  "png",
+                       "size_bytes":  1986669,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/emotes/8c41c6e3-75a7-4ba2-96cc-247f670f9947.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/emotes/8c41c6e3-75a7-4ba2-96cc-247f670f9947.png"
+                   },
+                   {
+                       "id":  "emotes-9c2de08b-f651-4eca-bb60-143f3696753b",
+                       "name":  "9c2de08b-f651-4eca-bb60-143f3696753b.png",
+                       "category":  "emotes",
+                       "path":  "assets/emotes/9c2de08b-f651-4eca-bb60-143f3696753b.png",
+                       "extension":  "png",
+                       "size_bytes":  2446382,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/emotes/9c2de08b-f651-4eca-bb60-143f3696753b.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/emotes/9c2de08b-f651-4eca-bb60-143f3696753b.png"
+                   },
+                   {
+                       "id":  "emotes-a2b5899c-4bb9-4717-bf83-2f0bf2b402ae",
+                       "name":  "a2b5899c-4bb9-4717-bf83-2f0bf2b402ae.png",
+                       "category":  "emotes",
+                       "path":  "assets/emotes/a2b5899c-4bb9-4717-bf83-2f0bf2b402ae.png",
+                       "extension":  "png",
+                       "size_bytes":  2913147,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/emotes/a2b5899c-4bb9-4717-bf83-2f0bf2b402ae.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/emotes/a2b5899c-4bb9-4717-bf83-2f0bf2b402ae.png"
+                   },
+                   {
+                       "id":  "emotes-a4b77687-4c90-4886-b74f-83139cf1c3ca",
+                       "name":  "a4b77687-4c90-4886-b74f-83139cf1c3ca.png",
+                       "category":  "emotes",
+                       "path":  "assets/emotes/a4b77687-4c90-4886-b74f-83139cf1c3ca.png",
+                       "extension":  "png",
+                       "size_bytes":  1926150,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/emotes/a4b77687-4c90-4886-b74f-83139cf1c3ca.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/emotes/a4b77687-4c90-4886-b74f-83139cf1c3ca.png"
+                   },
+                   {
+                       "id":  "emotes-aa497698-eeb6-448e-84e2-63dfb75cd442",
+                       "name":  "aa497698-eeb6-448e-84e2-63dfb75cd442.png",
+                       "category":  "emotes",
+                       "path":  "assets/emotes/aa497698-eeb6-448e-84e2-63dfb75cd442.png",
+                       "extension":  "png",
+                       "size_bytes":  2006682,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/emotes/aa497698-eeb6-448e-84e2-63dfb75cd442.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/emotes/aa497698-eeb6-448e-84e2-63dfb75cd442.png"
+                   },
+                   {
+                       "id":  "emotes-af9d01b9-e6ab-41eb-a6ff-66410a3c420e",
+                       "name":  "af9d01b9-e6ab-41eb-a6ff-66410a3c420e.png",
+                       "category":  "emotes",
+                       "path":  "assets/emotes/af9d01b9-e6ab-41eb-a6ff-66410a3c420e.png",
+                       "extension":  "png",
+                       "size_bytes":  2455376,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/emotes/af9d01b9-e6ab-41eb-a6ff-66410a3c420e.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/emotes/af9d01b9-e6ab-41eb-a6ff-66410a3c420e.png"
+                   },
+                   {
+                       "id":  "emotes-bc781dae-dadc-43ef-8775-2ab62fff6b8b-1",
+                       "name":  "bc781dae-dadc-43ef-8775-2ab62fff6b8b (1).png",
+                       "category":  "emotes",
+                       "path":  "assets/emotes/bc781dae-dadc-43ef-8775-2ab62fff6b8b (1).png",
+                       "extension":  "png",
+                       "size_bytes":  2302553,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/emotes/bc781dae-dadc-43ef-8775-2ab62fff6b8b%20(1).png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/emotes/bc781dae-dadc-43ef-8775-2ab62fff6b8b%20(1).png"
+                   },
+                   {
+                       "id":  "emotes-bf3d240e-eb43-463c-a1b1-4f1f729930d9",
+                       "name":  "bf3d240e-eb43-463c-a1b1-4f1f729930d9.png",
+                       "category":  "emotes",
+                       "path":  "assets/emotes/bf3d240e-eb43-463c-a1b1-4f1f729930d9.png",
+                       "extension":  "png",
+                       "size_bytes":  2572678,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/emotes/bf3d240e-eb43-463c-a1b1-4f1f729930d9.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/emotes/bf3d240e-eb43-463c-a1b1-4f1f729930d9.png"
+                   },
+                   {
+                       "id":  "emotes-c72aead8-914e-4611-aefc-db4a0010d383",
+                       "name":  "c72aead8-914e-4611-aefc-db4a0010d383.png",
+                       "category":  "emotes",
+                       "path":  "assets/emotes/c72aead8-914e-4611-aefc-db4a0010d383.png",
+                       "extension":  "png",
+                       "size_bytes":  2079252,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/emotes/c72aead8-914e-4611-aefc-db4a0010d383.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/emotes/c72aead8-914e-4611-aefc-db4a0010d383.png"
+                   },
+                   {
+                       "id":  "emotes-df0ce2f2-b987-4036-ab46-673c2c471fd0",
+                       "name":  "df0ce2f2-b987-4036-ab46-673c2c471fd0.png",
+                       "category":  "emotes",
+                       "path":  "assets/emotes/df0ce2f2-b987-4036-ab46-673c2c471fd0.png",
+                       "extension":  "png",
+                       "size_bytes":  2217283,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/emotes/df0ce2f2-b987-4036-ab46-673c2c471fd0.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/emotes/df0ce2f2-b987-4036-ab46-673c2c471fd0.png"
+                   },
+                   {
+                       "id":  "emotes-e138b195-79c1-4474-b441-76696d81c5fe",
+                       "name":  "e138b195-79c1-4474-b441-76696d81c5fe.png",
+                       "category":  "emotes",
+                       "path":  "assets/emotes/e138b195-79c1-4474-b441-76696d81c5fe.png",
+                       "extension":  "png",
+                       "size_bytes":  1384023,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/emotes/e138b195-79c1-4474-b441-76696d81c5fe.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/emotes/e138b195-79c1-4474-b441-76696d81c5fe.png"
+                   },
+                   {
+                       "id":  "emotes-ea8cda55-c41f-4d33-aaea-7e654ed1dd7f",
+                       "name":  "ea8cda55-c41f-4d33-aaea-7e654ed1dd7f.png",
+                       "category":  "emotes",
+                       "path":  "assets/emotes/ea8cda55-c41f-4d33-aaea-7e654ed1dd7f.png",
+                       "extension":  "png",
+                       "size_bytes":  2024015,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/emotes/ea8cda55-c41f-4d33-aaea-7e654ed1dd7f.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/emotes/ea8cda55-c41f-4d33-aaea-7e654ed1dd7f.png"
+                   },
+                   {
+                       "id":  "emotes-f89e18bc-495d-4ab3-a4d9-09357836cc0f",
+                       "name":  "f89e18bc-495d-4ab3-a4d9-09357836cc0f.png",
+                       "category":  "emotes",
+                       "path":  "assets/emotes/f89e18bc-495d-4ab3-a4d9-09357836cc0f.png",
+                       "extension":  "png",
+                       "size_bytes":  2296814,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/emotes/f89e18bc-495d-4ab3-a4d9-09357836cc0f.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/emotes/f89e18bc-495d-4ab3-a4d9-09357836cc0f.png"
+                   },
+                   {
+                       "id":  "emotes-gm-perfil-1mb",
+                       "name":  "GM_perfil_1MB.png",
+                       "category":  "emotes",
+                       "path":  "assets/emotes/GM_perfil_1MB.png",
+                       "extension":  "png",
+                       "size_bytes":  992465,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/emotes/GM_perfil_1MB.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/emotes/GM_perfil_1MB.png"
+                   },
+                   {
+                       "id":  "emotes-n-brava",
+                       "name":  "Ná Brava.png",
+                       "category":  "emotes",
+                       "path":  "assets/emotes/Ná Brava.png",
+                       "extension":  "png",
+                       "size_bytes":  2655931,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/emotes/N%C3%A1%20Brava.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/emotes/N%C3%A1%20Brava.png"
+                   },
+                   {
+                       "id":  "emotes-n-triste",
+                       "name":  "Ná triste.png",
+                       "category":  "emotes",
+                       "path":  "assets/emotes/Ná triste.png",
+                       "extension":  "png",
+                       "size_bytes":  2595463,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/emotes/N%C3%A1%20triste.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/emotes/N%C3%A1%20triste.png"
+                   },
+                   {
+                       "id":  "emotes-n-zzz",
+                       "name":  "Ná ZZZ.png",
+                       "category":  "emotes",
+                       "path":  "assets/emotes/Ná ZZZ.png",
+                       "extension":  "png",
+                       "size_bytes":  2589569,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/emotes/N%C3%A1%20ZZZ.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/emotes/N%C3%A1%20ZZZ.png"
+                   },
+                   {
+                       "id":  "emotes-nazinha",
+                       "name":  "NaZinha.png",
+                       "category":  "emotes",
+                       "path":  "assets/emotes/NaZinha.png",
+                       "extension":  "png",
+                       "size_bytes":  2560831,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/emotes/NaZinha.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/emotes/NaZinha.png"
+                   },
+                   {
+                       "id":  "emotes-toda-n",
+                       "name":  "Toda Ná.png",
+                       "category":  "emotes",
+                       "path":  "assets/emotes/Toda Ná.png",
+                       "extension":  "png",
+                       "size_bytes":  2561606,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/emotes/Toda%20N%C3%A1.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/emotes/Toda%20N%C3%A1.png"
+                   },
+                   {
+                       "id":  "figurinhas-39933623-70a5-48a8-8268-b7b10e95e1dc",
+                       "name":  "39933623-70a5-48a8-8268-b7b10e95e1dc.png",
+                       "category":  "figurinhas",
+                       "path":  "assets/figurinhas/39933623-70a5-48a8-8268-b7b10e95e1dc.png",
+                       "extension":  "png",
+                       "size_bytes":  2158432,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/figurinhas/39933623-70a5-48a8-8268-b7b10e95e1dc.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/figurinhas/39933623-70a5-48a8-8268-b7b10e95e1dc.png"
+                   },
+                   {
+                       "id":  "figurinhas-4ae7ab53-d695-46a2-a0ea-a6cda219fd63",
+                       "name":  "4ae7ab53-d695-46a2-a0ea-a6cda219fd63.png",
+                       "category":  "figurinhas",
+                       "path":  "assets/figurinhas/4ae7ab53-d695-46a2-a0ea-a6cda219fd63.png",
+                       "extension":  "png",
+                       "size_bytes":  2076341,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/figurinhas/4ae7ab53-d695-46a2-a0ea-a6cda219fd63.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/figurinhas/4ae7ab53-d695-46a2-a0ea-a6cda219fd63.png"
+                   },
+                   {
+                       "id":  "figurinhas-58458173-7f41-4a84-9ce8-65ce95748a46",
+                       "name":  "58458173-7f41-4a84-9ce8-65ce95748a46.png",
+                       "category":  "figurinhas",
+                       "path":  "assets/figurinhas/58458173-7f41-4a84-9ce8-65ce95748a46.png",
+                       "extension":  "png",
+                       "size_bytes":  2194130,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/figurinhas/58458173-7f41-4a84-9ce8-65ce95748a46.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/figurinhas/58458173-7f41-4a84-9ce8-65ce95748a46.png"
+                   },
+                   {
+                       "id":  "figurinhas-6d15393b-370a-49d3-b5fa-ced65115cfcc",
+                       "name":  "6d15393b-370a-49d3-b5fa-ced65115cfcc.png",
+                       "category":  "figurinhas",
+                       "path":  "assets/figurinhas/6d15393b-370a-49d3-b5fa-ced65115cfcc.png",
+                       "extension":  "png",
+                       "size_bytes":  1863894,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/figurinhas/6d15393b-370a-49d3-b5fa-ced65115cfcc.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/figurinhas/6d15393b-370a-49d3-b5fa-ced65115cfcc.png"
+                   },
+                   {
+                       "id":  "figurinhas-7cd73442-2728-453c-a83c-3a4e18fe9e77",
+                       "name":  "7cd73442-2728-453c-a83c-3a4e18fe9e77.png",
+                       "category":  "figurinhas",
+                       "path":  "assets/figurinhas/7cd73442-2728-453c-a83c-3a4e18fe9e77.png",
+                       "extension":  "png",
+                       "size_bytes":  2105632,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/figurinhas/7cd73442-2728-453c-a83c-3a4e18fe9e77.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/figurinhas/7cd73442-2728-453c-a83c-3a4e18fe9e77.png"
+                   },
+                   {
+                       "id":  "figurinhas-ce307c59-7a4a-4e4d-b1d0-4c5b66c6860c",
+                       "name":  "ce307c59-7a4a-4e4d-b1d0-4c5b66c6860c.png",
+                       "category":  "figurinhas",
+                       "path":  "assets/figurinhas/ce307c59-7a4a-4e4d-b1d0-4c5b66c6860c.png",
+                       "extension":  "png",
+                       "size_bytes":  2129115,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/figurinhas/ce307c59-7a4a-4e4d-b1d0-4c5b66c6860c.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/figurinhas/ce307c59-7a4a-4e4d-b1d0-4c5b66c6860c.png"
+                   },
+                   {
+                       "id":  "figurinhas-e",
+                       "name":  "e.png",
+                       "category":  "figurinhas",
+                       "path":  "assets/figurinhas/e.png",
+                       "extension":  "png",
+                       "size_bytes":  2105632,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/figurinhas/e.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/figurinhas/e.png"
+                   },
+                   {
+                       "id":  "figurinhas-f6a6eddc-e35d-4ecd-ae87-12054436a998",
+                       "name":  "f6a6eddc-e35d-4ecd-ae87-12054436a998.png",
+                       "category":  "figurinhas",
+                       "path":  "assets/figurinhas/f6a6eddc-e35d-4ecd-ae87-12054436a998.png",
+                       "extension":  "png",
+                       "size_bytes":  2122039,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/figurinhas/f6a6eddc-e35d-4ecd-ae87-12054436a998.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/figurinhas/f6a6eddc-e35d-4ecd-ae87-12054436a998.png"
+                   },
+                   {
+                       "id":  "futuras-c8817197-ccb2-4a6f-9742-6d2f857ea2f0",
+                       "name":  "c8817197-ccb2-4a6f-9742-6d2f857ea2f0.png",
+                       "category":  "futuras",
+                       "path":  "assets/futuras/c8817197-ccb2-4a6f-9742-6d2f857ea2f0.png",
+                       "extension":  "png",
+                       "size_bytes":  2599716,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/futuras/c8817197-ccb2-4a6f-9742-6d2f857ea2f0.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/futuras/c8817197-ccb2-4a6f-9742-6d2f857ea2f0.png"
+                   },
+                   {
+                       "id":  "futuras-cf1231cd-5e95-4a5b-81bf-6a06716710c9",
+                       "name":  "cf1231cd-5e95-4a5b-81bf-6a06716710c9.png",
+                       "category":  "futuras",
+                       "path":  "assets/futuras/cf1231cd-5e95-4a5b-81bf-6a06716710c9.png",
+                       "extension":  "png",
+                       "size_bytes":  2903019,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/futuras/cf1231cd-5e95-4a5b-81bf-6a06716710c9.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/futuras/cf1231cd-5e95-4a5b-81bf-6a06716710c9.png"
+                   },
+                   {
+                       "id":  "futuras-imagem-do-chatgpt-12-de-out-de-2026-07-22-12-1",
+                       "name":  "Imagem do ChatGPT 12 de out. de 2026, 07_22_12-1.png",
+                       "category":  "futuras",
+                       "path":  "assets/futuras/Imagem do ChatGPT 12 de out. de 2026, 07_22_12-1.png",
+                       "extension":  "png",
+                       "size_bytes":  1604637,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/futuras/Imagem%20do%20ChatGPT%2012%20de%20out.%20de%202026%2C%2007_22_12-1.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/futuras/Imagem%20do%20ChatGPT%2012%20de%20out.%20de%202026%2C%2007_22_12-1.png"
+                   },
+                   {
+                       "id":  "futuras-imagem-do-chatgpt-12-de-out-de-2026-07-22-13-2",
+                       "name":  "Imagem do ChatGPT 12 de out. de 2026, 07_22_13-2.png",
+                       "category":  "futuras",
+                       "path":  "assets/futuras/Imagem do ChatGPT 12 de out. de 2026, 07_22_13-2.png",
+                       "extension":  "png",
+                       "size_bytes":  1673264,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/futuras/Imagem%20do%20ChatGPT%2012%20de%20out.%20de%202026%2C%2007_22_13-2.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/futuras/Imagem%20do%20ChatGPT%2012%20de%20out.%20de%202026%2C%2007_22_13-2.png"
+                   },
+                   {
+                       "id":  "futuras-imagem-do-chatgpt-12-de-out-de-2026-07-22-14-3",
+                       "name":  "Imagem do ChatGPT 12 de out. de 2026, 07_22_14-3.png",
+                       "category":  "futuras",
+                       "path":  "assets/futuras/Imagem do ChatGPT 12 de out. de 2026, 07_22_14-3.png",
+                       "extension":  "png",
+                       "size_bytes":  2724326,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/futuras/Imagem%20do%20ChatGPT%2012%20de%20out.%20de%202026%2C%2007_22_14-3.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/futuras/Imagem%20do%20ChatGPT%2012%20de%20out.%20de%202026%2C%2007_22_14-3.png"
+                   },
+                   {
+                       "id":  "futuras-imagem-do-chatgpt-12-de-out-de-2026-07-22-15-4",
+                       "name":  "Imagem do ChatGPT 12 de out. de 2026, 07_22_15-4.png",
+                       "category":  "futuras",
+                       "path":  "assets/futuras/Imagem do ChatGPT 12 de out. de 2026, 07_22_15-4.png",
+                       "extension":  "png",
+                       "size_bytes":  1755819,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/futuras/Imagem%20do%20ChatGPT%2012%20de%20out.%20de%202026%2C%2007_22_15-4.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/futuras/Imagem%20do%20ChatGPT%2012%20de%20out.%20de%202026%2C%2007_22_15-4.png"
+                   },
+                   {
+                       "id":  "futuras-imagem-do-chatgpt-12-de-out-de-2026-07-22-15-5",
+                       "name":  "Imagem do ChatGPT 12 de out. de 2026, 07_22_15-5.png",
+                       "category":  "futuras",
+                       "path":  "assets/futuras/Imagem do ChatGPT 12 de out. de 2026, 07_22_15-5.png",
+                       "extension":  "png",
+                       "size_bytes":  2072060,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/futuras/Imagem%20do%20ChatGPT%2012%20de%20out.%20de%202026%2C%2007_22_15-5.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/futuras/Imagem%20do%20ChatGPT%2012%20de%20out.%20de%202026%2C%2007_22_15-5.png"
+                   },
+                   {
+                       "id":  "futuras-imagem-do-chatgpt-12-de-out-de-2026-07-22-16-6",
+                       "name":  "Imagem do ChatGPT 12 de out. de 2026, 07_22_16-6.png",
+                       "category":  "futuras",
+                       "path":  "assets/futuras/Imagem do ChatGPT 12 de out. de 2026, 07_22_16-6.png",
+                       "extension":  "png",
+                       "size_bytes":  2242785,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/futuras/Imagem%20do%20ChatGPT%2012%20de%20out.%20de%202026%2C%2007_22_16-6.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/futuras/Imagem%20do%20ChatGPT%2012%20de%20out.%20de%202026%2C%2007_22_16-6.png"
+                   },
+                   {
+                       "id":  "futuras-imagem-do-chatgpt-12-de-out-de-2026-07-22-18-8",
+                       "name":  "Imagem do ChatGPT 12 de out. de 2026, 07_22_18-8.png",
+                       "category":  "futuras",
+                       "path":  "assets/futuras/Imagem do ChatGPT 12 de out. de 2026, 07_22_18-8.png",
+                       "extension":  "png",
+                       "size_bytes":  2945474,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/futuras/Imagem%20do%20ChatGPT%2012%20de%20out.%20de%202026%2C%2007_22_18-8.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/futuras/Imagem%20do%20ChatGPT%2012%20de%20out.%20de%202026%2C%2007_22_18-8.png"
+                   },
+                   {
+                       "id":  "instagram-05ab3a4e-1f22-4af5-8d3f-e8dc97475f05",
+                       "name":  "05ab3a4e-1f22-4af5-8d3f-e8dc97475f05.png",
+                       "category":  "instagram",
+                       "path":  "assets/instagram/05ab3a4e-1f22-4af5-8d3f-e8dc97475f05.png",
+                       "extension":  "png",
+                       "size_bytes":  2285233,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/instagram/05ab3a4e-1f22-4af5-8d3f-e8dc97475f05.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/instagram/05ab3a4e-1f22-4af5-8d3f-e8dc97475f05.png"
+                   },
+                   {
+                       "id":  "instagram-0b809973-97f9-4d19-9fda-826594adb5a0",
+                       "name":  "0b809973-97f9-4d19-9fda-826594adb5a0.png",
+                       "category":  "instagram",
+                       "path":  "assets/instagram/0b809973-97f9-4d19-9fda-826594adb5a0.png",
+                       "extension":  "png",
+                       "size_bytes":  2316821,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/instagram/0b809973-97f9-4d19-9fda-826594adb5a0.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/instagram/0b809973-97f9-4d19-9fda-826594adb5a0.png"
+                   },
+                   {
+                       "id":  "instagram-12da9577-b233-4c3f-a2b8-3b4d264cda28",
+                       "name":  "12da9577-b233-4c3f-a2b8-3b4d264cda28.png",
+                       "category":  "instagram",
+                       "path":  "assets/instagram/12da9577-b233-4c3f-a2b8-3b4d264cda28.png",
+                       "extension":  "png",
+                       "size_bytes":  1766364,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/instagram/12da9577-b233-4c3f-a2b8-3b4d264cda28.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/instagram/12da9577-b233-4c3f-a2b8-3b4d264cda28.png"
+                   },
+                   {
+                       "id":  "instagram-1f8665e1-e118-44bc-a747-6bc25f93743c",
+                       "name":  "1f8665e1-e118-44bc-a747-6bc25f93743c.png",
+                       "category":  "instagram",
+                       "path":  "assets/instagram/1f8665e1-e118-44bc-a747-6bc25f93743c.png",
+                       "extension":  "png",
+                       "size_bytes":  2691727,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/instagram/1f8665e1-e118-44bc-a747-6bc25f93743c.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/instagram/1f8665e1-e118-44bc-a747-6bc25f93743c.png"
+                   },
+                   {
+                       "id":  "instagram-2ba9d62a-8239-4425-bef6-922a2efd2e97",
+                       "name":  "2ba9d62a-8239-4425-bef6-922a2efd2e97.png",
+                       "category":  "instagram",
+                       "path":  "assets/instagram/2ba9d62a-8239-4425-bef6-922a2efd2e97.png",
+                       "extension":  "png",
+                       "size_bytes":  1880298,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/instagram/2ba9d62a-8239-4425-bef6-922a2efd2e97.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/instagram/2ba9d62a-8239-4425-bef6-922a2efd2e97.png"
+                   },
+                   {
+                       "id":  "instagram-44f2f94e-d171-43a7-8bf8-ffa8c57d899d",
+                       "name":  "44f2f94e-d171-43a7-8bf8-ffa8c57d899d.png",
+                       "category":  "instagram",
+                       "path":  "assets/instagram/44f2f94e-d171-43a7-8bf8-ffa8c57d899d.png",
+                       "extension":  "png",
+                       "size_bytes":  2072011,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/instagram/44f2f94e-d171-43a7-8bf8-ffa8c57d899d.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/instagram/44f2f94e-d171-43a7-8bf8-ffa8c57d899d.png"
+                   },
+                   {
+                       "id":  "instagram-4bd6b186-e1c4-4fca-93aa-e83085f58f27",
+                       "name":  "4bd6b186-e1c4-4fca-93aa-e83085f58f27.png",
+                       "category":  "instagram",
+                       "path":  "assets/instagram/4bd6b186-e1c4-4fca-93aa-e83085f58f27.png",
+                       "extension":  "png",
+                       "size_bytes":  1888613,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/instagram/4bd6b186-e1c4-4fca-93aa-e83085f58f27.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/instagram/4bd6b186-e1c4-4fca-93aa-e83085f58f27.png"
+                   },
+                   {
+                       "id":  "instagram-4df0d380-792c-4799-8f40-8a8b90493ab6",
+                       "name":  "4df0d380-792c-4799-8f40-8a8b90493ab6.png",
+                       "category":  "instagram",
+                       "path":  "assets/instagram/4df0d380-792c-4799-8f40-8a8b90493ab6.png",
+                       "extension":  "png",
+                       "size_bytes":  1821608,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/instagram/4df0d380-792c-4799-8f40-8a8b90493ab6.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/instagram/4df0d380-792c-4799-8f40-8a8b90493ab6.png"
+                   },
+                   {
+                       "id":  "instagram-4e90023d-8a29-47c4-a3bb-a219bbb50cd0",
+                       "name":  "4e90023d-8a29-47c4-a3bb-a219bbb50cd0.png",
+                       "category":  "instagram",
+                       "path":  "assets/instagram/4e90023d-8a29-47c4-a3bb-a219bbb50cd0.png",
+                       "extension":  "png",
+                       "size_bytes":  1963699,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/instagram/4e90023d-8a29-47c4-a3bb-a219bbb50cd0.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/instagram/4e90023d-8a29-47c4-a3bb-a219bbb50cd0.png"
+                   },
+                   {
+                       "id":  "instagram-529223e8-b3c0-4fd2-b04f-0cca1fa8b637",
+                       "name":  "529223e8-b3c0-4fd2-b04f-0cca1fa8b637.png",
+                       "category":  "instagram",
+                       "path":  "assets/instagram/529223e8-b3c0-4fd2-b04f-0cca1fa8b637.png",
+                       "extension":  "png",
+                       "size_bytes":  2439583,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/instagram/529223e8-b3c0-4fd2-b04f-0cca1fa8b637.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/instagram/529223e8-b3c0-4fd2-b04f-0cca1fa8b637.png"
+                   },
+                   {
+                       "id":  "instagram-53360f0b-e84f-437c-8cb2-5a3d76bf4ccc",
+                       "name":  "53360f0b-e84f-437c-8cb2-5a3d76bf4ccc.png",
+                       "category":  "instagram",
+                       "path":  "assets/instagram/53360f0b-e84f-437c-8cb2-5a3d76bf4ccc.png",
+                       "extension":  "png",
+                       "size_bytes":  2312419,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/instagram/53360f0b-e84f-437c-8cb2-5a3d76bf4ccc.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/instagram/53360f0b-e84f-437c-8cb2-5a3d76bf4ccc.png"
+                   },
+                   {
+                       "id":  "instagram-6ae21bc5-15b9-46e4-a9f1-89fc7b467d1a",
+                       "name":  "6ae21bc5-15b9-46e4-a9f1-89fc7b467d1a.png",
+                       "category":  "instagram",
+                       "path":  "assets/instagram/6ae21bc5-15b9-46e4-a9f1-89fc7b467d1a.png",
+                       "extension":  "png",
+                       "size_bytes":  2061554,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/instagram/6ae21bc5-15b9-46e4-a9f1-89fc7b467d1a.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/instagram/6ae21bc5-15b9-46e4-a9f1-89fc7b467d1a.png"
+                   },
+                   {
+                       "id":  "instagram-7a34ae26-9f8b-4d93-a189-2c9babfef7ee",
+                       "name":  "7a34ae26-9f8b-4d93-a189-2c9babfef7ee.png",
+                       "category":  "instagram",
+                       "path":  "assets/instagram/7a34ae26-9f8b-4d93-a189-2c9babfef7ee.png",
+                       "extension":  "png",
+                       "size_bytes":  2584993,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/instagram/7a34ae26-9f8b-4d93-a189-2c9babfef7ee.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/instagram/7a34ae26-9f8b-4d93-a189-2c9babfef7ee.png"
+                   },
+                   {
+                       "id":  "instagram-7ddb6067-80b9-4e4c-bacd-ff3823e2c360",
+                       "name":  "7ddb6067-80b9-4e4c-bacd-ff3823e2c360.png",
+                       "category":  "instagram",
+                       "path":  "assets/instagram/7ddb6067-80b9-4e4c-bacd-ff3823e2c360.png",
+                       "extension":  "png",
+                       "size_bytes":  2634349,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/instagram/7ddb6067-80b9-4e4c-bacd-ff3823e2c360.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/instagram/7ddb6067-80b9-4e4c-bacd-ff3823e2c360.png"
+                   },
+                   {
+                       "id":  "instagram-8852a923-129a-4ff3-a1ad-e3c09e7a7b07",
+                       "name":  "8852a923-129a-4ff3-a1ad-e3c09e7a7b07.png",
+                       "category":  "instagram",
+                       "path":  "assets/instagram/8852a923-129a-4ff3-a1ad-e3c09e7a7b07.png",
+                       "extension":  "png",
+                       "size_bytes":  2158258,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/instagram/8852a923-129a-4ff3-a1ad-e3c09e7a7b07.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/instagram/8852a923-129a-4ff3-a1ad-e3c09e7a7b07.png"
+                   },
+                   {
+                       "id":  "instagram-8a1f027c-8ff4-4717-8575-b5637bb70fba-1",
+                       "name":  "8a1f027c-8ff4-4717-8575-b5637bb70fba (1).png",
+                       "category":  "instagram",
+                       "path":  "assets/instagram/8a1f027c-8ff4-4717-8575-b5637bb70fba (1).png",
+                       "extension":  "png",
+                       "size_bytes":  2271099,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/instagram/8a1f027c-8ff4-4717-8575-b5637bb70fba%20(1).png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/instagram/8a1f027c-8ff4-4717-8575-b5637bb70fba%20(1).png"
+                   },
+                   {
+                       "id":  "instagram-8a1f027c-8ff4-4717-8575-b5637bb70fba",
+                       "name":  "8a1f027c-8ff4-4717-8575-b5637bb70fba.png",
+                       "category":  "instagram",
+                       "path":  "assets/instagram/8a1f027c-8ff4-4717-8575-b5637bb70fba.png",
+                       "extension":  "png",
+                       "size_bytes":  2271099,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/instagram/8a1f027c-8ff4-4717-8575-b5637bb70fba.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/instagram/8a1f027c-8ff4-4717-8575-b5637bb70fba.png"
+                   },
+                   {
+                       "id":  "instagram-9910f116-5f9f-4d89-9534-be05b3263855",
+                       "name":  "9910f116-5f9f-4d89-9534-be05b3263855.png",
+                       "category":  "instagram",
+                       "path":  "assets/instagram/9910f116-5f9f-4d89-9534-be05b3263855.png",
+                       "extension":  "png",
+                       "size_bytes":  2062007,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/instagram/9910f116-5f9f-4d89-9534-be05b3263855.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/instagram/9910f116-5f9f-4d89-9534-be05b3263855.png"
+                   },
+                   {
+                       "id":  "instagram-afd90d76-e59f-4265-972b-9f5250acd828-1",
+                       "name":  "afd90d76-e59f-4265-972b-9f5250acd828 (1).png",
+                       "category":  "instagram",
+                       "path":  "assets/instagram/afd90d76-e59f-4265-972b-9f5250acd828 (1).png",
+                       "extension":  "png",
+                       "size_bytes":  1795541,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/instagram/afd90d76-e59f-4265-972b-9f5250acd828%20(1).png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/instagram/afd90d76-e59f-4265-972b-9f5250acd828%20(1).png"
+                   },
+                   {
+                       "id":  "instagram-afd90d76-e59f-4265-972b-9f5250acd828",
+                       "name":  "afd90d76-e59f-4265-972b-9f5250acd828.png",
+                       "category":  "instagram",
+                       "path":  "assets/instagram/afd90d76-e59f-4265-972b-9f5250acd828.png",
+                       "extension":  "png",
+                       "size_bytes":  1795541,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/instagram/afd90d76-e59f-4265-972b-9f5250acd828.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/instagram/afd90d76-e59f-4265-972b-9f5250acd828.png"
+                   },
+                   {
+                       "id":  "instagram-bee348f1-3686-497a-852c-5b952edc277a",
+                       "name":  "bee348f1-3686-497a-852c-5b952edc277a.png",
+                       "category":  "instagram",
+                       "path":  "assets/instagram/bee348f1-3686-497a-852c-5b952edc277a.png",
+                       "extension":  "png",
+                       "size_bytes":  2132524,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/instagram/bee348f1-3686-497a-852c-5b952edc277a.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/instagram/bee348f1-3686-497a-852c-5b952edc277a.png"
+                   },
+                   {
+                       "id":  "instagram-d3ef2e26-2772-4a9e-b328-dacc66c8fceb-1",
+                       "name":  "d3ef2e26-2772-4a9e-b328-dacc66c8fceb (1).png",
+                       "category":  "instagram",
+                       "path":  "assets/instagram/d3ef2e26-2772-4a9e-b328-dacc66c8fceb (1).png",
+                       "extension":  "png",
+                       "size_bytes":  1910903,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/instagram/d3ef2e26-2772-4a9e-b328-dacc66c8fceb%20(1).png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/instagram/d3ef2e26-2772-4a9e-b328-dacc66c8fceb%20(1).png"
+                   },
+                   {
+                       "id":  "instagram-d3ef2e26-2772-4a9e-b328-dacc66c8fceb",
+                       "name":  "d3ef2e26-2772-4a9e-b328-dacc66c8fceb.png",
+                       "category":  "instagram",
+                       "path":  "assets/instagram/d3ef2e26-2772-4a9e-b328-dacc66c8fceb.png",
+                       "extension":  "png",
+                       "size_bytes":  1910903,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/instagram/d3ef2e26-2772-4a9e-b328-dacc66c8fceb.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/instagram/d3ef2e26-2772-4a9e-b328-dacc66c8fceb.png"
+                   },
+                   {
+                       "id":  "instagram-d6e217bc-d369-4ba8-9e32-3ea57a7640a0",
+                       "name":  "d6e217bc-d369-4ba8-9e32-3ea57a7640a0.png",
+                       "category":  "instagram",
+                       "path":  "assets/instagram/d6e217bc-d369-4ba8-9e32-3ea57a7640a0.png",
+                       "extension":  "png",
+                       "size_bytes":  1877682,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/instagram/d6e217bc-d369-4ba8-9e32-3ea57a7640a0.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/instagram/d6e217bc-d369-4ba8-9e32-3ea57a7640a0.png"
+                   },
+                   {
+                       "id":  "instagram-dc33097c-3f71-4980-b179-a782fc9da05d",
+                       "name":  "dc33097c-3f71-4980-b179-a782fc9da05d.png",
+                       "category":  "instagram",
+                       "path":  "assets/instagram/dc33097c-3f71-4980-b179-a782fc9da05d.png",
+                       "extension":  "png",
+                       "size_bytes":  3184807,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/instagram/dc33097c-3f71-4980-b179-a782fc9da05d.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/instagram/dc33097c-3f71-4980-b179-a782fc9da05d.png"
+                   },
+                   {
+                       "id":  "instagram-f7fa3ff3-43b5-4680-a34a-c0891e181f86",
+                       "name":  "f7fa3ff3-43b5-4680-a34a-c0891e181f86.png",
+                       "category":  "instagram",
+                       "path":  "assets/instagram/f7fa3ff3-43b5-4680-a34a-c0891e181f86.png",
+                       "extension":  "png",
+                       "size_bytes":  2382794,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/instagram/f7fa3ff3-43b5-4680-a34a-c0891e181f86.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/instagram/f7fa3ff3-43b5-4680-a34a-c0891e181f86.png"
+                   },
+                   {
+                       "id":  "instagram-fe65d221-5f3c-445c-94cd-2398be9ad5ba",
+                       "name":  "fe65d221-5f3c-445c-94cd-2398be9ad5ba.png",
+                       "category":  "instagram",
+                       "path":  "assets/instagram/fe65d221-5f3c-445c-94cd-2398be9ad5ba.png",
+                       "extension":  "png",
+                       "size_bytes":  2134304,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/instagram/fe65d221-5f3c-445c-94cd-2398be9ad5ba.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/instagram/fe65d221-5f3c-445c-94cd-2398be9ad5ba.png"
+                   },
+                   {
+                       "id":  "legacy-17cd9ee7-8f5c-4184-9d4b-a609fa9bcdf1",
+                       "name":  "17cd9ee7-8f5c-4184-9d4b-a609fa9bcdf1.png",
+                       "category":  "legacy",
+                       "path":  "assets/legacy/Banner antigos GM/Laranja/17cd9ee7-8f5c-4184-9d4b-a609fa9bcdf1.png",
+                       "extension":  "png",
+                       "size_bytes":  566088,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/legacy/Banner%20antigos%20GM/Laranja/17cd9ee7-8f5c-4184-9d4b-a609fa9bcdf1.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/legacy/Banner%20antigos%20GM/Laranja/17cd9ee7-8f5c-4184-9d4b-a609fa9bcdf1.png"
+                   },
+                   {
+                       "id":  "legacy-a-3de214aa3f933bfa8376b1819ffcd628",
+                       "name":  "a_3de214aa3f933bfa8376b1819ffcd628.webp",
+                       "category":  "legacy",
+                       "path":  "assets/legacy/Banner antigos GM/Laranja/a_3de214aa3f933bfa8376b1819ffcd628.webp",
+                       "extension":  "webp",
+                       "size_bytes":  1390042,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/legacy/Banner%20antigos%20GM/Laranja/a_3de214aa3f933bfa8376b1819ffcd628.webp?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/legacy/Banner%20antigos%20GM/Laranja/a_3de214aa3f933bfa8376b1819ffcd628.webp"
+                   },
+                   {
+                       "id":  "legacy-gm",
+                       "name":  "GM.gif",
+                       "category":  "legacy",
+                       "path":  "assets/legacy/Banner antigos GM/Laranja/GM.gif",
+                       "extension":  "gif",
+                       "size_bytes":  582565,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/legacy/Banner%20antigos%20GM/Laranja/GM.gif?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/legacy/Banner%20antigos%20GM/Laranja/GM.gif"
+                   },
+                   {
+                       "id":  "legacy-gmbotbanner",
+                       "name":  "GMbotbanner.png",
+                       "category":  "legacy",
+                       "path":  "assets/legacy/Banner antigos GM/Laranja/GMbotbanner.png",
+                       "extension":  "png",
+                       "size_bytes":  1576091,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/legacy/Banner%20antigos%20GM/Laranja/GMbotbanner.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/legacy/Banner%20antigos%20GM/Laranja/GMbotbanner.png"
+                   },
+                   {
+                       "id":  "legacy-gmgiff",
+                       "name":  "GMGIFF.gif",
+                       "category":  "legacy",
+                       "path":  "assets/legacy/Banner antigos GM/Laranja/GMGIFF.gif",
+                       "extension":  "gif",
+                       "size_bytes":  7035706,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/legacy/Banner%20antigos%20GM/Laranja/GMGIFF.gif?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/legacy/Banner%20antigos%20GM/Laranja/GMGIFF.gif"
+                   },
+                   {
+                       "id":  "legacy-video-project-2",
+                       "name":  "Video Project 2.gif",
+                       "category":  "legacy",
+                       "path":  "assets/legacy/Banner antigos GM/Laranja/Video Project 2.gif",
+                       "extension":  "gif",
+                       "size_bytes":  4293466,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/legacy/Banner%20antigos%20GM/Laranja/Video%20Project%202.gif?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/legacy/Banner%20antigos%20GM/Laranja/Video%20Project%202.gif"
+                   },
+                   {
+                       "id":  "legacy-banner-para-o-github",
+                       "name":  "Banner para o GITHUB.jpg",
+                       "category":  "legacy",
+                       "path":  "assets/legacy/Banner antigos GM/roxo-azul/Banner para o GITHUB.jpg",
+                       "extension":  "jpg",
+                       "size_bytes":  124017,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/legacy/Banner%20antigos%20GM/roxo-azul/Banner%20para%20o%20GITHUB.jpg?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/legacy/Banner%20antigos%20GM/roxo-azul/Banner%20para%20o%20GITHUB.jpg"
+                   },
+                   {
+                       "id":  "legacy-chatgpt-image-sep-23-2026-11-05-42-pm",
+                       "name":  "ChatGPT Image Sep 23, 2026, 11_05_42 PM.png",
+                       "category":  "legacy",
+                       "path":  "assets/legacy/Banner antigos GM/roxo-azul/ChatGPT Image Sep 23, 2026, 11_05_42 PM.png",
+                       "extension":  "png",
+                       "size_bytes":  2199327,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/legacy/Banner%20antigos%20GM/roxo-azul/ChatGPT%20Image%20Sep%2023%2C%202026%2C%2011_05_42%20PM.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/legacy/Banner%20antigos%20GM/roxo-azul/ChatGPT%20Image%20Sep%2023%2C%202026%2C%2011_05_42%20PM.png"
+                   },
+                   {
+                       "id":  "legacy-gmsemtra-o",
+                       "name":  "GMsemtraço.png",
+                       "category":  "legacy",
+                       "path":  "assets/legacy/Banner antigos GM/roxo-azul/GMsemtraço.png",
+                       "extension":  "png",
+                       "size_bytes":  2371290,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/legacy/Banner%20antigos%20GM/roxo-azul/GMsemtra%C3%A7o.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/legacy/Banner%20antigos%20GM/roxo-azul/GMsemtra%C3%A7o.png"
+                   },
+                   {
+                       "id":  "legacy-0bfce686-d270-457e-8ffd-56f22c01fbe4",
+                       "name":  "0bfce686-d270-457e-8ffd-56f22c01fbe4.png",
+                       "category":  "legacy",
+                       "path":  "assets/legacy/Chibis antigos GM/0bfce686-d270-457e-8ffd-56f22c01fbe4.png",
+                       "extension":  "png",
+                       "size_bytes":  2300681,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/legacy/Chibis%20antigos%20GM/0bfce686-d270-457e-8ffd-56f22c01fbe4.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/legacy/Chibis%20antigos%20GM/0bfce686-d270-457e-8ffd-56f22c01fbe4.png"
+                   },
+                   {
+                       "id":  "legacy-design-sem-nome",
+                       "name":  "Design sem nome.png",
+                       "category":  "legacy",
+                       "path":  "assets/legacy/Chibis antigos GM/Design sem nome.png",
+                       "extension":  "png",
+                       "size_bytes":  197224,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/legacy/Chibis%20antigos%20GM/Design%20sem%20nome.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/legacy/Chibis%20antigos%20GM/Design%20sem%20nome.png"
+                   },
+                   {
+                       "id":  "legacy-v-code",
+                       "name":  "V_CODE.png",
+                       "category":  "legacy",
+                       "path":  "assets/legacy/Chibis antigos GM/V_CODE.png",
+                       "extension":  "png",
+                       "size_bytes":  133621,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/legacy/Chibis%20antigos%20GM/V_CODE.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/legacy/Chibis%20antigos%20GM/V_CODE.png"
+                   },
+                   {
+                       "id":  "recortes-39f784d4-703b-44b8-a8e6-3025adbe7ac6",
+                       "name":  "39f784d4-703b-44b8-a8e6-3025adbe7ac6.png",
+                       "category":  "recortes",
+                       "path":  "assets/recortes/39f784d4-703b-44b8-a8e6-3025adbe7ac6.png",
+                       "extension":  "png",
+                       "size_bytes":  2741450,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/recortes/39f784d4-703b-44b8-a8e6-3025adbe7ac6.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/recortes/39f784d4-703b-44b8-a8e6-3025adbe7ac6.png"
+                   },
+                   {
+                       "id":  "recortes-422491b0-9d5f-490f-b480-d15c2893f1a0",
+                       "name":  "422491b0-9d5f-490f-b480-d15c2893f1a0.png",
+                       "category":  "recortes",
+                       "path":  "assets/recortes/422491b0-9d5f-490f-b480-d15c2893f1a0.png",
+                       "extension":  "png",
+                       "size_bytes":  3192533,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/recortes/422491b0-9d5f-490f-b480-d15c2893f1a0.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/recortes/422491b0-9d5f-490f-b480-d15c2893f1a0.png"
+                   },
+                   {
+                       "id":  "recortes-f260ae43-071a-44c1-9a79-44ee5c0b1053",
+                       "name":  "f260ae43-071a-44c1-9a79-44ee5c0b1053.png",
+                       "category":  "recortes",
+                       "path":  "assets/recortes/f260ae43-071a-44c1-9a79-44ee5c0b1053.png",
+                       "extension":  "png",
+                       "size_bytes":  2180393,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/recortes/f260ae43-071a-44c1-9a79-44ee5c0b1053.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/recortes/f260ae43-071a-44c1-9a79-44ee5c0b1053.png"
+                   },
+                   {
+                       "id":  "recortes-mascote-cyber-royal-gm-core",
+                       "name":  "Mascote Cyber-Royal GM Core.png",
+                       "category":  "recortes",
+                       "path":  "assets/recortes/Mascote Cyber-Royal GM Core.png",
+                       "extension":  "png",
+                       "size_bytes":  2426184,
+                       "api_url":  "https://api.github.com/repos/SEU_USUARIO/SEU_REPOSITORIO/contents/assets/recortes/Mascote%20Cyber-Royal%20GM%20Core.png?ref=main",
+                       "raw_url":  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/recortes/Mascote%20Cyber-Royal%20GM%20Core.png"
+                   }
+               ]
+}

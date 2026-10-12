@@ -1,0 +1,8 @@
+.env
+.env.*
+!.env.example
+*.log
+.cache/
+node_modules/
+desktop.ini
+Thumbs.db
